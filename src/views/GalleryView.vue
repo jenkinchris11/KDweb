@@ -1,5 +1,7 @@
 <template>
   <link href="https://fonts.googleapis.com/css2?family=Gruppo&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
   <div>
   <h1>Currently Under Reconstruction</h1> 
   <p>View My Work Here</p>
