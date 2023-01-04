@@ -3,7 +3,7 @@
   <div>
   <h1>Currently Under Reconstruction</h1> 
   <p>View My Work Here</p>
-  <button src="https://en-gb.facebook.com/KirstyDoranphoto87/">Click Here!</button>
+  <button href="https://en-gb.facebook.com/KirstyDoranphoto87/">Click Here!</button>
   
   
   </div>
@@ -21,7 +21,7 @@
     </swiper>
   </div>
 
-  <div class="images">
+  <div style="display: none" class="images">
     <transition-group  tag="div">
       <div v-for="i in [currentIndex]" :key="i">
         <img :src="currentImg" />
