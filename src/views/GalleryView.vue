@@ -5,7 +5,7 @@
   <div>
   <h1>Currently Under Reconstruction</h1> 
   <p>View My Work Here</p>
-  <a href="https://en-gb.facebook.com/KirstyDoranphoto87/" class="fa fa-facebook"></a>  
+  <a href="https://en-gb.facebook.com/KirstyDoranphoto87/" class="fa fa-facebook">F</a>  
   
   
   </div>
