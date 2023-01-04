@@ -241,8 +241,8 @@ img {
 .fa {
   padding: 20px;
   font-size: 30px;
-  width: 100px;
-  height: 75px;
+  width: 300px;
+  height: 150px;
   text-align: center;
   text-decoration: none;
 }
