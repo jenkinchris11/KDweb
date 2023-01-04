@@ -1,6 +1,13 @@
 <template>
   <link href="https://fonts.googleapis.com/css2?family=Gruppo&display=swap" rel="stylesheet">
   <div>
+  <h1>Currently Under Reconstruction</h1> 
+  <p>View My Work Here</p>
+  <button src="https://en-gb.facebook.com/KirstyDoranphoto87/">Click Here!</button>
+  
+  
+  </div>
+  <div style="display: none;">
     <swiper :direction="'vertical'" :navigation="true" :modules="modules" class="mySwiper">
       <swiper-slide><img class="img-responsive" src="https://drive.google.com/uc?export=view&id=16Qor8dnk8P_t1DJdcPyh7vtuhbUrsPuf"></swiper-slide>
       <swiper-slide><img class="img-responsive" src="https://drive.google.com/uc?export=view&id=18FVrQ5FM8i2DdyjmNsvIggICDQY-ePej"></swiper-slide>
