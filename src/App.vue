@@ -6,6 +6,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Gruppo&display=swap" rel="stylesheet">
+  <title>Kirsty Doran Photography </title>
   <nav class="Width navbar navbar-light bg-faded" style=" flex-wrap: nowrap; justify-content: flex-start; padding: 15px; background: #dbc2b2; border-bottom: 5px solid white">
     <button class="navbar-toggler hidden-sm-up" type="button">
       &#9776;
