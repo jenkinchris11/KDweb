@@ -5,7 +5,7 @@
   <div>
   <h1>Currently Under Reconstruction</h1> 
   <p>View My Work Here</p>
-  <a href="https://en-gb.facebook.com/KirstyDoranphoto87/" class="fa fa-facebook">F</a>  
+  <a href="https://en-gb.facebook.com/KirstyDoranphoto87/" class="box">View on Facebbok</a>  
   
   
   </div>
@@ -259,4 +259,12 @@ img {
   background: #3B5998;
   color: white;
 }
+.box{
+width: 300px;
+height: 200px;
+background: #3B5998;
+color: white;
+
+}
+
 </style>
