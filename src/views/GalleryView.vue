@@ -3,7 +3,7 @@
   <div>
   <h1>Currently Under Reconstruction</h1> 
   <p>View My Work Here</p>
-  <button href="https://en-gb.facebook.com/KirstyDoranphoto87/">Click Here!</button>
+  <a href="https://en-gb.facebook.com/KirstyDoranphoto87/" class="fa fa-facebook"></a>  
   
   
   </div>
@@ -235,5 +235,26 @@ img {
 
 .prev:hover, .next:hover {
   background: #dbc2b2;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 100px;
+  height: 75px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
 }
 </style>
