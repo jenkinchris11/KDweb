@@ -262,8 +262,8 @@ img {
   color: white;
 }
 .box{
-width: 500px;
-height: 300px;
+width: 300px;
+height: 150px;
 background: #3B5998;
 color: white;
 
