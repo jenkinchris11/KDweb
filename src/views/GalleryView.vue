@@ -3,9 +3,9 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
   <div>
-  <h1>Currently Under Reconstruction</h1> 
-  <p>View My Work Here</p>
-  <a href="https://en-gb.facebook.com/KirstyDoranphoto87/">Click Here!</a>
+  <h1 style="font-family: 'Gruppo', cursive; ">Currently Under Reconstruction</h1> 
+  <p style="font-family: 'Gruppo', cursive; ">View My Work Here</p>
+  <a href="https://en-gb.facebook.com/KirstyDoranphoto87/" style="font-family: 'Gruppo', cursive; ">Click Here!</a>
   
   
   </div>
