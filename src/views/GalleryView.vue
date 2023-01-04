@@ -5,7 +5,9 @@
   <div>
   <h1>Currently Under Reconstruction</h1> 
   <p>View My Work Here</p>
-  <a href="https://en-gb.facebook.com/KirstyDoranphoto87/" class="box">View on Facebook</a>  
+  <div class="box">
+  <a href="https://en-gb.facebook.com/KirstyDoranphoto87/" >View on Facebook</a>
+  </div>
   
   
   </div>
