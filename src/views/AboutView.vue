@@ -11,7 +11,7 @@
           <br>
           <br>
 
-            After my formal training as a photographer I spent some time practicing different areas of photography. I initially focused my interest on fashion, to find what I was actually more attracted to and enjoyed was the human element of photography, from the classic pose to the more modern documentary image styles.
+            After my frmal training as a photographer I spent some time practicing different areas of photography. I initially focused my interest on fashion, to find what I was actually more attracted to and enjoyed was the human element of photography, from the classic pose to the more modern documentary image styles.
             <br>
             I was asked by a friend to cover a wedding, I agreed and found a very enjoyable type of photography that allowed me to indulge my artistic flair as well as the technical aspects required.
             <br>
