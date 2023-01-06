@@ -137,7 +137,6 @@ body::-webkit-scrollbar-thumb {
   }
   .navbar-navs{
     flex-direction: column;
-    display: none;
   }
   html,
   body{
