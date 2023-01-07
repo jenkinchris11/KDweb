@@ -3,7 +3,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Gruppo&display=swap" rel="stylesheet">
   <br>
-
+  <h1>Feature Wedding 1</h1>
+  <h2>Martin & Micheal. - Stirk House</h2>
   <div>
     <transition-group  tag="div">
       <div v-for="i in [currentIndex]" :key="i">
