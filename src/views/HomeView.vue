@@ -23,8 +23,8 @@
         <div class="skw-page__half skw-page__half--left">
           <div class="skw-page__skewed">
             <div class="skw-page__content" style="background: rgb(196,185,175);">
-              <h2 class="skw-page__heading">Page 2</h2>
-              <p class="skw-page__description">Nothing to do here, continue scrolling.</p>
+              <h2 class="skw-page__heading"><router-link to="/Feature-One" style="text-decoration: none;color: white">Feature Wedding 2</router-link></h2>
+              <p class="skw-page__description">Ashton & Bethany. <br> Beeston Manor </p>
             </div>
           </div>
         </div>
@@ -112,11 +112,11 @@
         <br>
         <br>
         <br>
-        <h1><router-link to="/Feature-One" style="position: relative;left: 10px; z-index: 10;text-decoration: none;color: white">Feature Wedding 2</router-link></h1>
+        <h1><router-link to="/Feature-Two" style="position: relative;left: 10px; z-index: 10;text-decoration: none;color: white">Feature Wedding 2</router-link></h1>
         <br>
         <br>
         <br>
-        <p style="text-decoration: none;color: white; width: 305px; position: relative; z-index: 10; padding-right: 105px;">Martin & Micheal. <br> Stirk House </p>
+        <p style="text-decoration: none;color: white; width: 305px; position: relative; z-index: 10; padding-right: 105px;">Ashton & Bethany. <br> Beeston Manor </p>
       </div>
       <div class="right">
         <svg viewBox="0 0 40 200" xmlns="http://www.w3.org/2000/svg">
