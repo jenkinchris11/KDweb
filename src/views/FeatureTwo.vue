@@ -3,8 +3,9 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Gruppo&display=swap" rel="stylesheet">
   <br>
-  <h1>Feature Wedding 2</h1>
-  <h2>Ashton & Bethany. - Beeston Manor</h2>
+  <h1 style="font-family: 'Gruppo', cursive; color: white ">Feature Wedding 2</h1>
+  <h2 style="font-family: 'Gruppo', cursive; color: white ">Ashton & Bethany. - Beeston Manor</h2>
+  <br>
   <div>
       <div style="">
         <swiper :navigation="true" :modules="modules" class="mySwiper">
@@ -46,6 +47,7 @@
         </swiper>
     </div>
   </div>
+  <br>
 </template>
 
 <script>
