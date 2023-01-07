@@ -3,10 +3,10 @@
     <h1 style="font-family: 'Gruppo', cursive; color: rgb(219, 194, 178)">Photo-Booth</h1>
     <br>
     <div>
-      <hr style="border: 1px solid grey;">
+      <hr style="border: 1px solid grey; width: 800px">
       <p style="font-family: 'Gruppo', cursive; font-size: 30px; color: rgb(219, 194, 178)">Mr & Mrs Heiss</p>
         <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiWHBEYmpmYlgvZjFOS3hqbkp6NXEvTnJVWFgyaG9kOFFpK0xhTjVnNnZqL2J4Ty9mdVR5clM1dXUyUGxJWVBaZnpDVVZ2MjVKdmlKU0dwdm5YeU9WbEdmbkExS1BKdmEyYk5HTy9aMUE0UTgzN3BFMnZsZnVjK0F6Y0t6L3B3eHF2SEQxMU94L0pnPT0iLCJpIjoieFFxUU5KQ0JrTlpWY0J6RCJ9" style="font-size: 24px; text-decoration: none; color: rgb(219, 194, 178)">Download</a>
-        <hr style="border: 1px solid grey;">
+        <hr style="border: 1px solid grey; width: 800px">
     </div>
   </div>
 </template>
