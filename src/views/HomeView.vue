@@ -137,7 +137,7 @@
         <br>
         <br>
         <br>
-        <p style="text-decoration: none;color: white; width: 305px; position: relative; z-index: 10; padding-right: 105px;">Martin & Micheal. <br> Stirk House </p>
+        <p style="text-decoration: none;color: white; width: 305px; position: relative; z-index: 10; padding-right: 105px;"><br></p>
       </div>
       <div class="right">
         <svg viewBox="0 0 40 200" xmlns="http://www.w3.org/2000/svg">
@@ -158,7 +158,7 @@
         <br>
         <br>
         <br>
-        <p style="text-decoration: none;color: white; width: 305px; position: relative; z-index: 10; padding-right: 105px;">Martin & Micheal. <br> Stirk House </p>
+        <p style="text-decoration: none;color: white; width: 305px; position: relative; z-index: 10; padding-right: 105px;"> <br>  </p>
       </div>
       <div class="right">
         <svg viewBox="0 0 40 200" xmlns="http://www.w3.org/2000/svg">
@@ -179,7 +179,7 @@
         <br>
         <br>
         <br>
-        <p style="text-decoration: none;color: white; width: 305px; position: relative; z-index: 10; padding-right: 105px;">Martin & Micheal. <br> Stirk House </p>
+        <p style="text-decoration: none;color: white; width: 305px; position: relative; z-index: 10; padding-right: 105px;"> <br>  </p>
       </div>
       <div class="right">
         <svg viewBox="0 0 40 200" xmlns="http://www.w3.org/2000/svg">
