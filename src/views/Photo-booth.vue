@@ -3,8 +3,8 @@
     <h1 style="font-family: 'Gruppo', cursive; ">Photo-Booth</h1>
     <br>
     <div>
-      <p style="font-family: 'Gruppo', cursive; ">Mr & Mrs Heiss</p>
-        <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiWHBEYmpmYlgvZjFOS3hqbkp6NXEvTnJVWFgyaG9kOFFpK0xhTjVnNnZqL2J4Ty9mdVR5clM1dXUyUGxJWVBaZnpDVVZ2MjVKdmlKU0dwdm5YeU9WbEdmbkExS1BKdmEyYk5HTy9aMUE0UTgzN3BFMnZsZnVjK0F6Y0t6L3B3eHF2SEQxMU94L0pnPT0iLCJpIjoieFFxUU5KQ0JrTlpWY0J6RCJ9">Download</a>
+      <p style="font-family: 'Gruppo', cursive; font-size: 30px;">Mr & Mrs Heiss</p>
+        <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiWHBEYmpmYlgvZjFOS3hqbkp6NXEvTnJVWFgyaG9kOFFpK0xhTjVnNnZqL2J4Ty9mdVR5clM1dXUyUGxJWVBaZnpDVVZ2MjVKdmlKU0dwdm5YeU9WbEdmbkExS1BKdmEyYk5HTy9aMUE0UTgzN3BFMnZsZnVjK0F6Y0t6L3B3eHF2SEQxMU94L0pnPT0iLCJpIjoieFFxUU5KQ0JrTlpWY0J6RCJ9" style="font-size: 34px; text-decoration: none;">Download</a>
     </div>
   </div>
 </template>
