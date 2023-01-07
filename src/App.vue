@@ -21,22 +21,22 @@
           <router-link to="/Gallery" class="nav-link" style="font-family: 'Gruppo', cursive;color: white;text-decoration: none; font-size: 30px;">Wedding Gallery</router-link>
         </li>
 
-        <li class="nav-mask" style="padding-left: 25px; font-family: 'Gruppo', cursive;">
+        <li class="nav-mask" style="padding-left: 25px; font-family: 'Gruppo', cursive; background: none;">
           <router-link to="/Weddings&Packages" class="nav-link" style="font-family: 'Gruppo', cursive;color: white;text-decoration: none; font-size: 30px;">Weddings & Packages</router-link>
         </li>
-        <li class="" style="display: none; padding-left: 25px; font-family: 'Gruppo', cursive;">
+        <li class="nav-mask" style="display: none; padding-left: 25px; font-family: 'Gruppo', cursive; background: none;">
           <router-link to="/Other-Work" class="nav-link" style="font-family: 'Gruppo', cursive;color: white;text-decoration: none; font-size: 30px;">Other Work</router-link>
         </li>
-        <li class="" style="padding-left: 25px;font-family: 'Gruppo', cursive;;">
+        <li class="nav-mask" style="padding-left: 25px;font-family: 'Gruppo', cursive; background: none;">
           <router-link to="/Photo-booth" class="nav-link" style="font-family: 'Gruppo', cursive;color: white;text-decoration: none; font-size: 30px;">Photo-booth</router-link>
         </li>
-        <li class="" style="padding-left: 25px; font-family: 'Gruppo', cursive;">
+        <li class="nav-mask" style="padding-left: 25px; font-family: 'Gruppo', cursive; background: none;">
           <router-link to="/about" class="nav-link" style="font-family: 'Gruppo', cursive;color: white;text-decoration: none; font-size: 30px;">About</router-link>
         </li>
-        <li class="" style="padding-left: 25px; font-family: 'Gruppo', cursive;">
+        <li class="nav-mask" style="padding-left: 25px; font-family: 'Gruppo', cursive; background: none;">
           <router-link to="/Social-Links" class="nav-link" style="font-family: 'Gruppo', cursive;color: white;text-decoration: none; font-size: 30px;">Socials</router-link>
         </li>
-        <li class="" style="display: none; padding-left: 25px; font-family: 'Gruppo', cursive;">
+        <li class="nav-mask" style="display: none; padding-left: 25px; font-family: 'Gruppo', cursive; background: none;">
           <router-link to="/Enquiries-Form" class="nav-link" style="font-family: 'Gruppo', cursive;text-decoration: none;color: white; font-size: 30px;">Enquiries</router-link>
         </li>
       </ul>
