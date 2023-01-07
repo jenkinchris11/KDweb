@@ -21,6 +21,7 @@ export default {
   data() {
     return {
       images: [
+      "https://drive.google.com/uc?export=view&id=1dNK4d4fBs08fdzr74S-2xdr4asp-cuY2",
       "https://drive.google.com/uc?export=view&id=12V9I2TvlixppHgZ7iiVGZZImg92P3fXq",
 "https://drive.google.com/uc?export=view&id=14Bg1u8P-GvP75OPdfYZ6w0RKcTjnaGcj",
 "https://drive.google.com/uc?export=view&id=17hMK1m9ZQh2N-_GTlgapKoDYtL7s1lQs",
