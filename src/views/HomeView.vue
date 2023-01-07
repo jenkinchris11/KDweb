@@ -75,9 +75,6 @@
             <div class="skw-page__content" style="background: rgb(196,185,175);">
               <h2 class="skw-page__heading">Epic finale</h2>
               <p class="skw-page__description">
-                Feel free to check
-                <a class="skw-page__link" href="https://codepen.io/suez/pens/public/" target="_blank">my other pens</a> and follow me on
-                <a class="skw-page__link" href="https://twitter.com/NikolayTalanov" target="_blank">Twitter</a>
               </p>
             </div>
           </div>
