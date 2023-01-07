@@ -23,7 +23,7 @@
         <div class="skw-page__half skw-page__half--left">
           <div class="skw-page__skewed">
             <div class="skw-page__content" style="background: rgb(196,185,175);">
-              <h2 class="skw-page__heading"><router-link to="/Feature-One" style="text-decoration: none;color: white">Feature Wedding 2</router-link></h2>
+              <h2 class="skw-page__heading"><router-link to="/Feature-Two" style="text-decoration: none;color: white">Feature Wedding 2</router-link></h2>
               <p class="skw-page__description">Ashton & Bethany. <br> Beeston Manor </p>
             </div>
           </div>
