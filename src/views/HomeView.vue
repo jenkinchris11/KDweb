@@ -83,7 +83,111 @@
     </div>
   </div>
   <div class="FeatSml">
-
+    <article style="font-family: 'Gruppo'">
+      <div class="left">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+       <h1><router-link to="/Feature-One" style="position: relative;left: 10px; z-index: 10;text-decoration: none;color: white">Feature Wedding 1</router-link></h1>
+        <br>
+        <br>
+        <br>
+        <p style="text-decoration: none;color: white; width: 305px; position: relative; z-index: 10; padding-right: 105px;">Martin & Micheal. <br> Stirk House </p>
+      </div>
+      <div class="right">
+        <svg viewBox="0 0 40 200" xmlns="http://www.w3.org/2000/svg">
+          <path d="M0 0l40 200H0" fill-rule="evenodd"/>
+        </svg>
+        <img class="image" src="@/assets/Photo.jpg" alt="" />
+      </div>
+    </article>
+    <article style="font-family: 'Gruppo'">
+      <div class="left">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h1><router-link to="/Feature-One" style="position: relative;left: 10px; z-index: 10;text-decoration: none;color: white">Feature Wedding 2</router-link></h1>
+        <br>
+        <br>
+        <br>
+        <p style="text-decoration: none;color: white; width: 305px; position: relative; z-index: 10; padding-right: 105px;">Martin & Micheal. <br> Stirk House </p>
+      </div>
+      <div class="right">
+        <svg viewBox="0 0 40 200" xmlns="http://www.w3.org/2000/svg">
+          <path d="M0 0l40 200H0" fill-rule="evenodd"/>
+        </svg>
+        <img class="image" src="@/assets/2.jpg" alt="" />
+      </div>
+    </article>
+    <article style="font-family: 'Gruppo'">
+      <div class="left">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h1><router-link to="/Feature-One" style="position: relative;left: 10px; z-index: 10;text-decoration: none;color: white">Feature Wedding 3</router-link></h1>
+        <br>
+        <br>
+        <br>
+        <p style="text-decoration: none;color: white; width: 305px; position: relative; z-index: 10; padding-right: 105px;">Martin & Micheal. <br> Stirk House </p>
+      </div>
+      <div class="right">
+        <svg viewBox="0 0 40 200" xmlns="http://www.w3.org/2000/svg">
+          <path d="M0 0l40 200H0" fill-rule="evenodd"/>
+        </svg>
+        <img class="image" src="@/assets/051.jpg" alt="" />
+      </div>
+    </article>
+    <article style="font-family: 'Gruppo'">
+      <div class="left">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h1><router-link to="/Feature-One" style="position: relative;left: 10px; z-index: 10;text-decoration: none;color: white">Feature Wedding 4</router-link></h1>
+        <br>
+        <br>
+        <br>
+        <p style="text-decoration: none;color: white; width: 305px; position: relative; z-index: 10; padding-right: 105px;">Martin & Micheal. <br> Stirk House </p>
+      </div>
+      <div class="right">
+        <svg viewBox="0 0 40 200" xmlns="http://www.w3.org/2000/svg">
+          <path d="M0 0l40 200H0" fill-rule="evenodd"/>
+        </svg>
+        <img class="image" src="@/assets/063.jpg" alt="" />
+      </div>
+    </article>
+    <article style="font-family: 'Gruppo'">
+      <div class="left">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h1><router-link to="/Feature-One" style="position: relative;left: 10px; z-index: 10;text-decoration: none;color: white">Feature Wedding 5</router-link></h1>
+        <br>
+        <br>
+        <br>
+        <p style="text-decoration: none;color: white; width: 305px; position: relative; z-index: 10; padding-right: 105px;">Martin & Micheal. <br> Stirk House </p>
+      </div>
+      <div class="right">
+        <svg viewBox="0 0 40 200" xmlns="http://www.w3.org/2000/svg">
+          <path d="M0 0l40 200H0" fill-rule="evenodd"/>
+        </svg>
+        <img class="image" src="@/assets/100.jpg" alt="" />
+      </div>
+    </article>
   </div>
 </template>
 
@@ -92,6 +196,55 @@
 </script>
 
 <style scoped>
+article {
+  max-width: 400px;
+  margin: 5% auto 0;
+  display: flex;
+}
+
+.left {
+  width: calc(50% - 30px);
+  padding: 20px 5px 20px 20px;
+  background: rgb(196, 185, 175);
+  height: 500px;
+}
+
+.right {
+  width: calc(50% + 30px);
+  background-color: #00a8a4;
+  position: relative;
+  height: 500px;
+}
+.right svg {
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.right path {
+  fill: rgb(196, 185, 175);
+}
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+p {
+  font-size: 26px;
+  margin: 1rem 0;
+}
 :root {
   overflow: hidden;
 }

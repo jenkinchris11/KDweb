@@ -10,16 +10,16 @@
   
   </div>
   <div style="display: none;">
-    <swiper :direction="'vertical'" :navigation="true" :modules="modules" class="mySwiper">
-      <swiper-slide><img class="img-responsive" src="https://drive.google.com/uc?export=view&id=16Qor8dnk8P_t1DJdcPyh7vtuhbUrsPuf"></swiper-slide>
-      <swiper-slide><img class="img-responsive" src="https://drive.google.com/uc?export=view&id=18FVrQ5FM8i2DdyjmNsvIggICDQY-ePej"></swiper-slide>
-      <swiper-slide><img class="img-responsive" src="https://drive.google.com/uc?export=view&id=16Qor8dnk8P_t1DJdcPyh7vtuhbUrsPuf"></swiper-slide>
-      <swiper-slide><img class="img-responsive" src="https://drive.google.com/uc?export=view&id=18FVrQ5FM8i2DdyjmNsvIggICDQY-ePej"></swiper-slide>
-      <swiper-slide><img class="img-responsive" src="https://drive.google.com/uc?export=view&id=16Qor8dnk8P_t1DJdcPyh7vtuhbUrsPuf"></swiper-slide>
-      <swiper-slide><img class="img-responsive" src="https://drive.google.com/uc?export=view&id=16Qor8dnk8P_t1DJdcPyh7vtuhbUrsPuf"></swiper-slide>
-      <swiper-slide><img class="img-responsive" src="https://drive.google.com/uc?export=view&id=16Qor8dnk8P_t1DJdcPyh7vtuhbUrsPuf"></swiper-slide>
-      <swiper-slide><img class="img-responsive" src="https://drive.google.com/uc?export=view&id=16Qor8dnk8P_t1DJdcPyh7vtuhbUrsPuf"></swiper-slide>
-      <swiper-slide><img class="img-responsive" src="https://drive.google.com/uc?export=view&id=16Qor8dnk8P_t1DJdcPyh7vtuhbUrsPuf"></swiper-slide>
+    <swiper :navigation="true" :modules="modules" class="mySwiper">
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=16Qor8dnk8P_t1DJdcPyh7vtuhbUrsPuf"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=18FVrQ5FM8i2DdyjmNsvIggICDQY-ePej"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=16Qor8dnk8P_t1DJdcPyh7vtuhbUrsPuf"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=18FVrQ5FM8i2DdyjmNsvIggICDQY-ePej"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=16Qor8dnk8P_t1DJdcPyh7vtuhbUrsPuf"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=16Qor8dnk8P_t1DJdcPyh7vtuhbUrsPuf"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=16Qor8dnk8P_t1DJdcPyh7vtuhbUrsPuf"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=16Qor8dnk8P_t1DJdcPyh7vtuhbUrsPuf"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=16Qor8dnk8P_t1DJdcPyh7vtuhbUrsPuf"></swiper-slide>
     </swiper>
   </div>
 
@@ -153,6 +153,11 @@ export default {
 </script>
 
 <style scoped>
+.sizer{
+  width: 100%;
+  max-width: 1000px;
+  height: auto;
+}
 .default-slider .swiper-slide {
   display: flex;
   justify-content: center;
