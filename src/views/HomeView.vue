@@ -366,7 +366,7 @@ p {
   background: #292929;
 }
 .skw-page-2 .skw-page__half--right .skw-page__content {
-  background-image: url("@/assets/2.jpg");
+  background-image: url("@/assets/untitled-33.jpg");
 }
 .skw-page-3 .skw-page__half--left .skw-page__content {
   background-image: url("@/assets/051.jpg");
