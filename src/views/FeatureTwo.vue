@@ -3,11 +3,10 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Gruppo&display=swap" rel="stylesheet">
   <br>
-  <h1 style="font-family: 'Gruppo', cursive; color: white ">Feature Wedding 2</h1>
-  <h2 style="font-family: 'Gruppo', cursive; color: white ">Ashton & Bethany. - Beeston Manor</h2>
-  <br>
+  <h1 style="font-family: 'Gruppo', cursive; color: rgb(219, 194, 178) ">Feature Wedding 2</h1>
+  <h2 style="font-family: 'Gruppo', cursive; color: rgb(219, 194, 178) ">Ashton & Bethany. - Beeston Manor</h2>
   <div>
-      <div style="">
+      <div>
         <swiper :navigation="true" :modules="modules" class="mySwiper">
           <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=12V9I2TvlixppHgZ7iiVGZZImg92P3fXq"></swiper-slide>
           <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=14Bg1u8P-GvP75OPdfYZ6w0RKcTjnaGcj"></swiper-slide>
@@ -47,7 +46,6 @@
         </swiper>
     </div>
   </div>
-  <br>
 </template>
 
 <script>
