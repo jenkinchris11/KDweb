@@ -122,7 +122,7 @@
         <svg viewBox="0 0 40 200" xmlns="http://www.w3.org/2000/svg">
           <path d="M0 0l40 200H0" fill-rule="evenodd"/>
         </svg>
-        <img class="image" src="@/assets/2.jpg" alt="" />
+        <img class="image" src="@/assets/untitled-33.jpg" alt="" />
       </div>
     </article>
     <article style="font-family: 'Gruppo'">
