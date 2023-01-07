@@ -41,7 +41,7 @@
         </li>
       </ul>
     </div>
-    <div class="nav-mask"></div>
+    <div class="nav-mask" style="position: fixed; opacity: 0;"></div>
   </nav>
   <div class="Flexiboi">
             <div class="View" style="background: #f4ece0;">
