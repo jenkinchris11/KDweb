@@ -17,7 +17,7 @@
         <button class="navbar-close hidden" type="button" style="border: none; background: #dbc2b2">
           &#9776;
         </button>
-        <li class="" style="padding-left: 25px; font-family: 'Gruppo', cursive;">
+        <li class="nav-mask" style="padding-left: 25px; font-family: 'Gruppo', cursive; background: none;">
           <router-link to="/Gallery" class="nav-link" style="font-family: 'Gruppo', cursive;color: white;text-decoration: none; font-size: 30px;">Wedding Gallery</router-link>
         </li>
 
