@@ -21,7 +21,7 @@
           <router-link to="/Gallery" class="nav-link" style="font-family: 'Gruppo', cursive;color: white;text-decoration: none; font-size: 30px;">Wedding Gallery</router-link>
         </li>
 
-        <li class="" style="padding-left: 25px; font-family: 'Gruppo', cursive;">
+        <li class="nav-mask" style="padding-left: 25px; font-family: 'Gruppo', cursive;">
           <router-link to="/Weddings&Packages" class="nav-link" style="font-family: 'Gruppo', cursive;color: white;text-decoration: none; font-size: 30px;">Weddings & Packages</router-link>
         </li>
         <li class="" style="display: none; padding-left: 25px; font-family: 'Gruppo', cursive;">
