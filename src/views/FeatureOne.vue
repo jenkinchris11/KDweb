@@ -208,7 +208,8 @@ export default {
 
 img {
   height:75vh;
-  max-width:100%
+  max-width:100%;
+
 }
 
 .prev, .next {

@@ -43,8 +43,8 @@
         <div class="skw-page__half skw-page__half--right">
           <div class="skw-page__skewed">
             <div class="skw-page__content" style="background: rgb(196,185,175);">
-              <h2 class="skw-page__heading">Page 3</h2>
-              <p class="skw-page__description">The end is near, I promise!</p>
+              <h2 class="skw-page__heading"><router-link to="/Feature-Three" style="text-decoration: none;color: white">Feature Wedding 3</router-link></h2>
+              <p class="skw-page__description">Robert & Chelsea. <br> Shrigley Hall Hotel & Spa </p>
             </div>
           </div>
         </div>
@@ -53,7 +53,7 @@
         <div class="skw-page__half skw-page__half--left">
           <div class="skw-page__skewed">
             <div class="skw-page__content" style="background:rgb(196,185,175);">
-              <h2 class="skw-page__heading">Page 4</h2>
+              <h2 class="skw-page__heading"><router-link to="/Feature-Four" style="text-decoration: none;color: white"> Feature Wedding 4</router-link></h2>
               <p class="skw-page__description">Ok, ok, just one more scroll!</p>
             </div>
           </div>
@@ -64,7 +64,7 @@
           </div>
         </div>
       </div>
-      <div class="skw-page skw-page-5">
+      <div style="display:none;" class="skw-page skw-page-5">
         <div class="skw-page__half skw-page__half--left">
           <div class="skw-page__skewed">
             <div class="skw-page__content"></div>
@@ -133,17 +133,17 @@
         <br>
         <br>
         <br>
-        <h1><router-link to="/Feature-One" style="position: relative;left: 10px; z-index: 10;text-decoration: none;color: white">Feature Wedding 3</router-link></h1>
+        <h1><router-link to="/Feature-Three" style="position: relative;left: 10px; z-index: 10;text-decoration: none;color: white">Feature Wedding 3</router-link></h1>
         <br>
         <br>
         <br>
-        <p style="text-decoration: none;color: white; width: 305px; position: relative; z-index: 10; padding-right: 105px;"><br></p>
+        <p style="text-decoration: none;color: white; width: 305px; position: relative; z-index: 10; padding-right: 105px;">Robert & Chelsea <br> Shrigley Hall Hotel & Spa</p>
       </div>
       <div class="right">
         <svg viewBox="0 0 40 200" xmlns="http://www.w3.org/2000/svg">
           <path d="M0 0l40 200H0" fill-rule="evenodd"/>
         </svg>
-        <img class="image" src="@/assets/051.jpg" alt="" />
+        <img class="image" src="@/assets/Photos-27.jpg" alt="" />
       </div>
     </article>
     <article style="font-family: 'Gruppo'">
@@ -154,20 +154,20 @@
         <br>
         <br>
         <br>
-        <h1><router-link to="/Feature-One" style="position: relative;left: 10px; z-index: 10;text-decoration: none;color: white">Feature Wedding 4</router-link></h1>
+        <h1><router-link to="/Feature-Four" style="position: relative;left: 10px; z-index: 10;text-decoration: none;color: white">Feature Wedding 4</router-link></h1>
         <br>
         <br>
         <br>
-        <p style="text-decoration: none;color: white; width: 305px; position: relative; z-index: 10; padding-right: 105px;"> <br>  </p>
+        <p style="text-decoration: none;color: white; width: 305px; position: relative; z-index: 10; padding-right: 105px;">Dwain & Nicole <br> Cragwood Country House Hotel </p>
       </div>
       <div class="right">
         <svg viewBox="0 0 40 200" xmlns="http://www.w3.org/2000/svg">
           <path d="M0 0l40 200H0" fill-rule="evenodd"/>
         </svg>
-        <img class="image" src="@/assets/063.jpg" alt="" />
+        <img class="image" src="@/assets/Photos-41.jpg" alt="" />
       </div>
     </article>
-    <article style="font-family: 'Gruppo'">
+    <article style="display: none; font-family: 'Gruppo'">
       <div class="left">
         <br>
         <br>
@@ -369,7 +369,7 @@ p {
   background-image: url("@/assets/untitled-33.jpg");
 }
 .skw-page-3 .skw-page__half--left .skw-page__content {
-  background-image: url("@/assets/051.jpg");
+  background-image: url("@/assets/Photos-27.jpg");
 }
 .skw-page-3 .skw-page__half--right .skw-page__content {
   background: #292929;
@@ -378,7 +378,7 @@ p {
   background: #292929;
 }
 .skw-page-4 .skw-page__half--right .skw-page__content {
-  background-image: url("@/assets/063.jpg");
+  background-image: url("@/assets/Photos-41.jpg");
 }
 .skw-page-5 .skw-page__half--left .skw-page__content {
   background-image: url("@/assets/100.jpg");
