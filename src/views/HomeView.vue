@@ -43,8 +43,8 @@
         <div class="skw-page__half skw-page__half--right">
           <div class="skw-page__skewed">
             <div class="skw-page__content" style="background: rgb(196,185,175);">
-              <h2 class="skw-page__heading"><router-link to="/Feature-Three" style="text-decoration: none;color: white">Feature Wedding 3</router-link></h2>
-              <p class="skw-page__description">Robert & Chelsea. <br> Shrigley Hall Hotel & Spa </p>
+              <h2 style="font-size: 48px" class="skw-page__heading"><router-link to="/Feature-Three" style="text-decoration: none;color: white">Feature Wedding 3</router-link></h2>
+              <p style="font-size: 40px" class="skw-page__description">Robert & Chelsea. <br> Shrigley Hall Hotel & Spa </p>
             </div>
           </div>
         </div>
@@ -53,8 +53,8 @@
         <div class="skw-page__half skw-page__half--left">
           <div class="skw-page__skewed">
             <div class="skw-page__content" style="background:rgb(196,185,175);">
-              <h2 class="skw-page__heading"><router-link to="/Feature-Four" style="text-decoration: none;color: white"> Feature Wedding 4</router-link></h2>
-              <p class="skw-page__description">Ok, ok, just one more scroll!</p>
+              <h2 style="font-size: 48px" class="skw-page__heading"><router-link to="/Feature-Four" style="text-decoration: none;color: white"> Feature Wedding 4</router-link></h2>
+              <p style="font-size: 40px" class="skw-page__description">Ok, ok, just one more scroll!</p>
             </div>
           </div>
         </div>
