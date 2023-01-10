@@ -192,7 +192,7 @@ export default {
 
 img {
   height:75vh;
-  max-width:100%
+  max-width:100%;
   max-inline-size: 100%;
   block-size: auto;
 }
