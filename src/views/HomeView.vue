@@ -14,7 +14,7 @@
           <div class="skw-page__skewed">
             <div class="skw-page__content" style="background: rgb(196,185,175);">
               <h1 style="font-size: 48px" class="skw-page__heading"> <router-link to="/Feature-One" style="text-decoration: none;color: white">Feature Wedding 1</router-link> </h1>
-              <p style="font-size: 40px"><router-link to="/Feature-One" style="text-decoration: none;color: white">Martin & Micheal. <br> Stirk House </router-link></p>
+              <p style="font-size: 40px"><router-link to="/Feature-One" style="text-decoration: none;color: white">Martin & Micheal <br> Stirk House </router-link></p>
             </div>
           </div>
         </div>
@@ -24,7 +24,7 @@
           <div class="skw-page__skewed">
             <div class="skw-page__content" style="background: rgb(196,185,175);">
               <h2 style="font-size: 48px" class="skw-page__heading"><router-link to="/Feature-Two" style="text-decoration: none;color: white">Feature Wedding 2</router-link></h2>
-              <p style="font-size: 40px" class="skw-page__description">Ashton & Bethany. <br> Beeston Manor </p>
+              <p style="font-size: 40px" class="skw-page__description">Ashton & Bethany <br> Beeston Manor </p>
             </div>
           </div>
         </div>
@@ -44,7 +44,7 @@
           <div class="skw-page__skewed">
             <div class="skw-page__content" style="background: rgb(196,185,175);">
               <h2 style="font-size: 48px" class="skw-page__heading"><router-link to="/Feature-Three" style="text-decoration: none;color: white">Feature Wedding 3</router-link></h2>
-              <p style="font-size: 40px" class="skw-page__description">Robert & Chelsea. <br> Shrigley Hall Hotel & Spa </p>
+              <p style="font-size: 40px" class="skw-page__description">Robert & Chelsea <br> Shrigley Hall Hotel & Spa </p>
             </div>
           </div>
         </div>
@@ -54,7 +54,7 @@
           <div class="skw-page__skewed">
             <div class="skw-page__content" style="background:rgb(196,185,175);">
               <h2 style="font-size: 48px" class="skw-page__heading"><router-link to="/Feature-Four" style="text-decoration: none;color: white"> Feature Wedding 4</router-link></h2>
-              <p style="font-size: 40px" class="skw-page__description">Ok, ok, just one more scroll!</p>
+              <p style="font-size: 40px" class="skw-page__description">Dwain & Nicole <br> Cragwood Country House Hotel</p>
             </div>
           </div>
         </div>
