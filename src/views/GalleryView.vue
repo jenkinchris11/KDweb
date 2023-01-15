@@ -2,13 +2,12 @@
   <link href="https://fonts.googleapis.com/css2?family=Gruppo&display=swap" rel="stylesheet">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-  <div>
+  <div style="display: none;">
   <h1 style="font-family: 'Gruppo', cursive; color: red; ">Currently Under Reconstruction</h1> 
   <h1 style="font-family: 'Gruppo', cursive; ">View My Work Here</h1>
-  <a href="https://en-gb.facebook.com/KirstyDoranphoto87/" style="font-family: 'Gruppo', cursive; font-size: 24; ">Click Here!</a>
-  
-  
+  <a href="https://en-gb.facebook.com/KirstyDoranphoto87/" style="font-family: 'Gruppo', cursive; font-size: 24px; ">Click Here!</a>
   </div>
+
   <div style="display: none;">
     <swiper :navigation="true" :modules="modules" class="mySwiper">
       <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=16Qor8dnk8P_t1DJdcPyh7vtuhbUrsPuf"></swiper-slide>
@@ -32,6 +31,98 @@
     <a class="prev" @click="prev" href="#">&#10094; Previous</a>
     <a class="next" @click="next" href="#">&#10095; Next</a>
   </div>
+
+  <div>
+    <swiper :navigation="true" :modules="modules" class="mySwiper">
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=13QUdkYHA96C37nqLXda71RREKlTRet-z"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=14vrdzrYrGox1fzg_m0lL4uZnkIlAJTyy"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=15uvZEgroSARd_RRV0jeVcsNfzW4Q5HRZ"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=15vZkfZsgb3RMJoQsYg2C5RRLEvn3KV_n"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=16QR05AZDS-91djA4iQymA--DHRZCns-7"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=16mw7j2oMvjuS44ES9T466vahl56s8AhG"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=16s57NNN5nYf7DDj5UsCtyV4k90Y0SmGv"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=17NUtu41AVV0y4XqMduOURjlh9_6X0YHT"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=17c20PfoSYLnOM4X2tmdPCx-FenuwrNYB"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=17vEcHg7tuFDcP16JutxnGN7m4Cv-r0eo"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=180Im0lIPmvcam0XAUR2m3iUkofF3exhq"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=18Woqbh30fXGmbAYI2A39ODmSZPYxsm-U"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=18rCHCDhfk5Tge7rnF4mTEjxRnPHRWsWp"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1A4LcTu-H8PmSSLeHFRAfUeFMi2mk8gij"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1BApG07zvc3XZda8V040VN0ia0qbV5dew"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1BuokFVE4N5jaBTXImJTIEFvDKeLOFB9m"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1CiqYwkcDEkYiCLgz-tTCGR9YSVXX0XiU"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1CpT5g7c7JMDefpHIGH5rJttElrxQkVUD"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1DP5QGCJJNn3t3LYFDMemW2AEF2urVElf"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1DS2R5wAoMKBBaty8lIQbm5tQcgnOTcbN"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1DhLxSlKQNTiYf1IjPKzlxb4bMPKumsU8"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1DmIcDP4-yU9tFK_gnVzeoxMtLHkh4MBy"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1FB3ReYSobCU3KK7Jm-hpgWd0qAstt-fJ"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1FHHmv0ypiuesNP8J1APcNB2sHMqVrgLu"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1FJLfcrfyYpdJD-9zcB9ddoJkY7gkYqFW"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1Fipn-BGAFqgy4paqjFC7lIzDdyfDMYQh"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1Hwr0lueHNVzARxctgPnwhQysP-_sVexC"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1ISULZYTOCglv8bZD6N58fwi233SCJBNt"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1IhZQtEvRxPYguZNHJZr4oBZFzs8qHuEM"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1J-08YppKQ2fuXg-1-5UWSU5bq9yG0dXM"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1JqjBqaog_v_5cKldS9NmLOWs9toH4f9X"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1KD5ypq1_0y-FxZQ810Ygnn7QHJUHdm0z"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1KFZ_Ef12IvA7-n__IagZH6eFr77o23Tu"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1Kp42ETkhwhmQEIQLS33s95r-ocU1UeCC"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1L17RnSDqIBL7yxtoMo-hGxUtsDNrxCCr"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1M0cLYnPH97D8E5gPguLe-BuXqCUzkcEg"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1MFb___djL_PN2RGUi0LDHfDzHCh0pZbl"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1MYAEVmAPyV0PMBaaRQpqBouDwNMfP-Nq"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1NRj_7CXNZZhrgmbHoqLatkvUF6EtuxeW"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1NoeqPtFOsyNYN6R67SdcNs5ZHbXfWScm"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1PnTeAZhTYKtAcz1LtkKcUzNco2u_Kym6"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1QBvyIJTmoa3s-SvPha3ocE9IakRGhsxK"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1QJDi5QuzAXyJBe8a393vFi64eTeJPkBc"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1QLCySGvZzrSW6EOuEFv96nLfxLZHRvAz"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1Qrb8nGKfyULxOMHjeBHwxKDuwwIV8HhA"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1SQ9LL-HiwLb5ChGm0Bo8YttiaM9fej26"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1TK7R9VZNk-23i1VOp0FptWfHiRbETdY7"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1TWs_plUktUrX3F8jCcLBQ1LCHNCiQqIf"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1UCj5uti7qO6RRXaYlX-IYMrPHqEpOZry"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1UgKbq8K7ZJUI3M1yaDl9_-TaJLTAMjZh"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1V5eIqF1X0uWz02s1r_lgRA0DZBojnjI_"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1WYC_x6i_0GmEJI6n57JNp0YE4zeJQVeK"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1YJ2vKIZHgpH6xXIrsV21vIZOuaxvQt0D"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1aBjCvj9_ErItcGr7k5ZRioGHEB4cqlhQ"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1ab-_8wZseeHXiaGdmugqwfikd6a_gaLA"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1az7Nfdg_zwVN9DTS1Sl1JJr8mPXjd_Gt"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1b2DBLgIrHqrBH_1l5WWz5lmoUx4UOclL"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1bJt2vETnl_lWiQRRyPDMfgYtTR2YssHt"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1bdlW0WaI_wtd0QZV-bDU6UFrJriWYA6Y"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1cwe65IQnZE00bJAP5LTmJGqvLAppSe3B"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1dUJ7O0kLgmOatYtSgi5N0purMhAtpyij"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1exOlkg8vueSHKTPXBiAD0kRgV-sCea4N"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1fgkQyDSuM8nRnhJ9AwEHYlcp6SXwzS3A"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1gz78bVURl_9Cgkpj1FVpYbKX1Sic2pXs"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1hcFE8hsMJ6OEgNvz_gd51U8FSlruG9tD"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1hdJZG7TO9V7dZSTmcC1poBqifb0dqsr8"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1hoiNziBqcyKtUgHnakKeOULVlpSE_SXC"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1la-vIMpw501-J0oKrCKFj4rUW9Z2FyM8"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1nASjf8J8OKGqBikYVkkmJOHxBrT-pmmQ"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1pZgJktG8OPXxWU7Bg7m_syefXBn7SRW4"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1sZ89FKePGbL4jr00TqJEo3kaiOAY_crV"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1tRZHfFyPqvsXO3pagmUJEnX2EXXNjK2W"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1u5XvDnOZNmydCJ8XG8CP1gW1IbJ4DPTD"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1vphXdff6WCnHs8nKlEmv8_VE47yQ6Ziv"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1xWvdpXeCD3qxd9XxnOd2ohg8H21y5QLA"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1xZNpztqyrOKitwTGgwCf4ljm7wJ4vdhp"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1z_Yf1zASKrWLR_qv3DJU47I9ExvXEFS_"></swiper-slide>
+      <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1GYiFO8pv5FVlGe2TuoXOHAsFZtiq6YV5"></swiper-slide>
+    </swiper>
+  </div>
+
+  <div style="display: none" id="box">
+    <router-link to="/Weddings-View" class="nav-link" style="font-family: 'Gruppo', cursive;color: white;text-decoration: none; font-size: 30px;"></router-link>
+    <div id="overlay">
+      <router-link to="/Weddings-View" class="nav-link" style="font-family: 'Gruppo', cursive;color: white;text-decoration: none; font-size: 30px;"><span id="plus">Weddings</span></router-link>
+    </div>
+
+  </div>
+
 </template>
 <script>
 // Import Swiper styles
@@ -153,6 +244,68 @@ export default {
 </script>
 
 <style scoped>
+#box {
+  width: 500px;
+  height: 300px;
+  box-shadow: inset 1px 1px 40px 0 rgba(0, 0, 0, 0.45);
+  border-bottom: 2px solid #fff;
+  border-right: 2px solid #fff;
+  margin: 5% auto 0 auto;
+  background-image: url("@/assets/Photos-27.jpg");
+  background-size: cover;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+#overlay {
+  background: rgba(0, 0, 0, 0.75);
+  text-align: center;
+  padding: 45px 0 66px 0;
+  opacity: 0;
+  -webkit-transition: opacity 0.25s ease;
+  -moz-transition: opacity 0.25s ease;
+  width: 500px;
+  height: 300px;
+}
+#plus {
+  font-family: 'Gruppo', cursive;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 62px;
+}
+
+@media (max-width: 657px) {
+  #overlay {
+    background: rgba(0, 0, 0, 0.75);
+    text-align: center;
+    padding: 45px 0 66px 0;
+    opacity: 0;
+    -webkit-transition: opacity 0.25s ease;
+    -moz-transition: opacity 0.25s ease;
+    width: 300px;
+    height: 200px;
+  }
+  #box {
+    width: 300px;
+    height: 200px;
+    box-shadow: inset 1px 1px 40px 0 rgba(0, 0, 0, 0.45);
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff;
+    margin: 5% auto 0 auto;
+    background-image: url("@/assets/Photos-27.jpg");
+    background-size: cover;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  #plus {
+    font-family: 'Gruppo', cursive;
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 26px;
+  }
+}
+#box:hover #overlay {
+  opacity: 1;
+}
+
 .sizer{
   width: 100%;
   max-width: 1000px;
@@ -182,9 +335,7 @@ swiper-wrapper{
   }
 }
 @media (min-width: 657px) {
-  .swiper{
-    display: none;
-  }
+
   .images{
     display: block;
   }

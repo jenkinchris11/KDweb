@@ -137,7 +137,7 @@
         <br>
         <br>
         <br>
-        <p style="text-decoration: none;color: white; width: 305px; position: relative; z-index: 10; padding-right: 105px;">Robert & Chelsea <br> Shrigley Hall Hotel & Spa</p>
+        <p style="text-decoration: none;color: white; width: 300px; position: relative; z-index: 10; padding-right: 90px;">Robert & Chelsea <br> Shrigley Hall Hotel & Spa</p>
       </div>
       <div class="right">
         <svg viewBox="0 0 40 200" xmlns="http://www.w3.org/2000/svg">

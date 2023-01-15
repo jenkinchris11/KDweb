@@ -22,7 +22,7 @@
         </li>
 
         <li class="nav-mask" style="padding-left: 25px; font-family: 'Gruppo', cursive; background: none;">
-          <router-link to="/Weddings&Packages" class="nav-link" style="font-family: 'Gruppo', cursive;color: white;text-decoration: none; font-size: 30px;">Weddings & Packages</router-link>
+          <router-link to="/Weddings&Packages" class="nav-link" style="font-family: 'Gruppo', cursive;color: white;text-decoration: none; font-size: 30px;">Wedding Packages</router-link>
         </li>
         <li class="nav-mask" style="display: none; padding-left: 25px; font-family: 'Gruppo', cursive; background: none;">
           <router-link to="/Other-Work" class="nav-link" style="font-family: 'Gruppo', cursive;color: white;text-decoration: none; font-size: 30px;">Other Work</router-link>

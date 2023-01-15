@@ -23,7 +23,7 @@
     <p></p>
     <img style="height: 150px" src="@/assets/arrow.png" />
     <p></p>
-    <img  style="padding: 50px; height: 350px;" src="@/assets/Offers.png"/>
+    <img  class="Sizer-Offer" style="height: 185px" src="@/assets/Offers.png"/>
     <p class="Padder" style="font-family: 'Gruppo', cursive;  align-self: center; color: #908e8b; padding-bottom: 10px;  ">Travel Costs Apply After A 40 Mile Radius Of Oswaldtwistle.</p>
 
   </div>
@@ -39,6 +39,9 @@
   height: 400px;
 }
 .Sizer-Yellow{
+  height: 400px;
+}
+.Sizer-Offer{
   height: 400px;
 }
 .Padder{
@@ -57,6 +60,11 @@
   .Sizer-Yellow{
     height: 250px;
     width: 350px;
+    padding-right: 20px;
+  }
+  .Sizer-Offer{
+    height: 200px;
+    width: 425px;
     padding-right: 20px;
   }
   .Padder{
