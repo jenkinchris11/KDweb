@@ -36,13 +36,13 @@
 
 <style>
 .Sizer{
-  height: 50vh;
+  height: 50%;
 }
 .Sizer-Yellow{
-  height: 50vh;
+  height: 50%;
 }
 .Sizer-Offer{
-  height: 50vh;
+  height: 50%;
 }
 .Padder{
   padding-left: 25px;
@@ -54,17 +54,17 @@
 }
 @media only screen and (max-width: 500px) {
   .Sizer {
-    height: 50vh;
-    width: 100vw;
+    height: 50%;
+    width: 100%;
   }
   .Sizer-Yellow{
-    height: 50vh;
-    width: 100vw;
+    height: 50%;
+    width: 100%;
     padding-right: 20px;
   }
   .Sizer-Offer{
-    height: 50vh;
-    width: 100vw;
+    height: 50%;
+    width: 100%;
     padding-right: 20px;
   }
   .Padder{
