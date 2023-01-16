@@ -36,13 +36,13 @@
 
 <style>
 .Sizer{
-  height: 50%;
+  height: 50vh;
 }
 .Sizer-Yellow{
-  height: 50%;
+  height: 50vh;
 }
 .Sizer-Offer{
-  height: 50%;
+  height: 50vh;
 }
 .Padder{
   padding-left: 25px;
