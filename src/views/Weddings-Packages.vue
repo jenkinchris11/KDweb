@@ -60,12 +60,10 @@
   .Sizer-Yellow{
     height: 50%;
     width: 100%;
-    padding-right: 20px;
   }
   .Sizer-Offer{
     height: 50%;
     width: 100%;
-    padding-right: 20px;
   }
   .Padder{
     padding-left: 0px;
