@@ -63,8 +63,8 @@
     padding-right: 20px;
   }
   .Sizer-Offer{
-    height: 200px;
-    width: 425px;
+    height: 50vh;
+    width: 100vw;
     padding-right: 20px;
   }
   .Padder{
