@@ -23,7 +23,7 @@
     <p></p>
     <img style="height: 150px" src="@/assets/arrow.png" />
     <p></p>
-    <img  class="Sizer-Offer" style="height: 185px" src="@/assets/Offers.png"/>
+    <img  class="Sizer-Offer" style="" src="@/assets/Offers.png"/>
     <p class="Padder" style="font-family: 'Gruppo', cursive;  align-self: center; color: #908e8b; padding-bottom: 10px;  ">Travel Costs Apply After A 40 Mile Radius Of Oswaldtwistle.</p>
 
   </div>
