@@ -182,8 +182,9 @@ export default {
 }
 
 img {
-  height:auto;
-  max-width:100%
+  height: 75vh;
+  max-width: 100%;
+  object-fit: contain;
 }
 
 .prev, .next {

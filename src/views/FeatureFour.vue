@@ -191,10 +191,9 @@ export default {
 }
 
 img {
-  height:75vh;
-  max-width:100%;
-  max-inline-size: 100%;
-  block-size: auto;
+  height: 75vh;
+  max-width: 100%;
+  object-fit: contain;
 }
 
 .prev, .next {

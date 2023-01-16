@@ -31,7 +31,7 @@
     <a class="prev" @click="prev" href="#">&#10094; Previous</a>
     <a class="next" @click="next" href="#">&#10095; Next</a>
   </div>
-
+  <br>
   <div>
     <swiper :navigation="true" :modules="modules" class="mySwiper">
       <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1WYC_x6i_0GmEJI6n57JNp0YE4zeJQVeK"></swiper-slide>
@@ -307,11 +307,6 @@ export default {
   opacity: 1;
 }
 
-.sizer{
-  width: 100%;
-  max-width: 1000px;
-  height: auto;
-}
 .default-slider .swiper-slide {
   display: flex;
   justify-content: center;
@@ -359,8 +354,9 @@ swiper-wrapper{
 }
 
 img {
-  height:75vh;
-  max-width:100%
+  height: 75vh;
+  max-width: 100%;
+  object-fit: contain;
 }
 
 .prev, .next {
