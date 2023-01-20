@@ -202,8 +202,13 @@ export default {
 };
 </script>
 
-<style scoped>
-
+<style>
+.swiper-button-prev{
+  color: rgb(219, 194, 178) !important;
+}
+.swiper-button-next{
+  color: rgb(219, 194, 178) !important;
+}
 .sizer{
   width: 100%;
   max-width: 1000px;
