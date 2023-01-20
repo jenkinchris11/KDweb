@@ -172,7 +172,13 @@ export default {
 
 </script>
 
-<style scoped>
+<style>
+.swiper-button-prev{
+  color: rgb(219, 194, 178) !important;
+}
+.swiper-button-next{
+  color: rgb(219, 194, 178) !important;
+}
 .fade-enter-active,
 .fade-leave-active {
   transition: all 0.9s ease;
