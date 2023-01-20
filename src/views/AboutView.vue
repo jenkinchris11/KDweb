@@ -7,7 +7,7 @@
     <div class="Right">
 
           <br>
-          <p class="Center" style="color: #908e8b; font-size: 24px;">Hopefully you are still interested at this point and would like to know a little about me!
+          <p class="Center" style="color: #908e8b; font-size: 24px; font-family: 'Gruppo', cursive;">Hopefully you are still interested at this point and would like to know a little about me!
           <br>
           <br>
 
