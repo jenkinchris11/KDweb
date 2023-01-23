@@ -1,4 +1,5 @@
 <template class="no-scroll" style="background: #f4ece0;">
+  <meta property="og:image" content="@/assets/KDLogo.png" />
   <div style="background: #f4ece0; width: 100vw; height: 100vh; overflow-x: hidden">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
