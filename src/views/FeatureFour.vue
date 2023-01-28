@@ -54,7 +54,7 @@
   </div>
 </template>
 
-<script>
+<script scoped>
 // Import Swiper styles
 // import Swiper core and required modules
 import { Navigation, Scrollbar, A11y } from 'swiper';
@@ -255,9 +255,6 @@ export default {
   height: auto;
   max-width: 100%;
   max-height: 100%;
-}
-swiper-wrapper{
-  height: 100vh;
 }
 @media (max-width: 657px) {
   .images{

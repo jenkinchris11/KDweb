@@ -189,7 +189,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .swiper-button-prev{
   color: rgb(219, 194, 178) !important;
 }
@@ -370,4 +370,5 @@ img {
   color: white;
 
 }
+
 </style>
