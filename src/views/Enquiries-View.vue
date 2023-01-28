@@ -1,7 +1,7 @@
 <template>
 
   <div class="section" id="contact">
-    <h1 style="font-family: Gruppo, cursive;">Wedding Enquiries</h1>
+    <h1 style="font-family: Gruppo, cursive;">Wedding Enquiry</h1>
     <form ref="form" @submit.prevent="sendEmail">
       <label style="display: block; font-family: Gruppo, cursive; font-size: 22px;">Your Name</label><input ref="anyName" type="text" name="user_name">
       <label style="display: block; font-family: Gruppo, cursive; font-size: 22px;">Your Email</label><input ref="anyName" type="email" name="user_email">

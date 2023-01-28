@@ -8,47 +8,47 @@
   <div>
       <div>
         <swiper :navigation="true" :modules="modules" class="mySwiper">
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1-ohgPMC2aQZ7uXPHqGu0ge2G4mHT-sei"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=12swQQBHyU-PJseWXXYsK89L9UQSD7wjS"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=17DPX8P4mGQcVHU0bWYLW4Y063QRa31rS"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=17is6rJH5R74qCX4fihwAfTkGKH3JGmA1"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=19MnVYdgBkKrzijLX9X2JtPtbnw6a1DJe"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1D19G5ejilT4NiuSPnGsQeSpiirVUzSBU"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1DZaqCJo-95M_tmAN4e6l7E4CKUSL4Phs"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1Dvx6bHvwl432zGno7IzInHHmc7JYFvoQ"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1GqUW0py6ZUnFLCt4hqpdhelh00hkUI9-"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1IfzQ8omSUVpz2FG9hWFUiieI2LohUoAE"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1JDGybyvSetHYm70lb35XeD1IcGykBsP_"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1Kc5_lS8DOZ1HMgKEgAjSBDeP5c7YRMor"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1LDsmwmyYCrBi-0DfdxVtjkSKkrOqbGYy"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1MDnDCWSiHHmZz13tv7nkzMgYVW8IwFjc"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1OMo9Cnz4Ch9CX4Q6Zw0oaOJSrIOOuKvG"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1OS1m138Id9B26f6O4YZJ2T_2hbL5FjBo"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1P5yrCRea7ay7zBp70jXm6qK4Q--QSCq5"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1PDe9O7fOe5nV9HWg4G-hDSYq3nzx_CWK"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1QdF0EE0mUiYlx6d9mUB2VHccnUJTSwAe"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1QfwoY3lUSgX29PpPvclo4craGd6VDiaw"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1UQmRYSts9Dwwo2-z8fI4-sAoDHXyjQYN"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1UdHuAxBb65fng3TT80VADnuQNFE2-qCz"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1ZeL5eZONO6BalvLvuaKLmrt2vRaAVUIa"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1a9xMZNwcWPQUFtqBx5tyEGx99voimN0o"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1bLfv6_6tkUqzjDo_mwt1U_r2w0vm2q7G"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1cAjLc7R_2MrTm0Oy8toopPRPoyKPzGbR"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1fhkdFIqXix3px9IIAaFgQ98RUAHlJF44"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1fseRFZwgJfsph2tOIN2viUKV_JfBvQw2"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1glEee4VCrS_q7UjnB6J6Df-dHyvKfKzj"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1hsUhOWc6rL14OSJEEuq4G5ON8U9uUOj1"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1jKBUUfd_-rISbkk-OmkKXV-cXUA8iXNv"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1janpbiuupf13CcUbYihjBilYClXqoZ2q"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1k-eEU44FG9N14Ss3XjNGSuel7WjsUlhy"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1kA3_uUDibgJ-yLVoAVcD-90WSl0opc1v"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1kXWnC5GKAaUhfJHzczo3kgRwDybQV1bV"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1l1GFuJBjXVyg8Vb-1vjaNodKLhhlbSP2"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1pWUZsnZ3EyWmv_jIfrbs2HgkzWJ-uEdU"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1qRBj5Lk9s8lx6rm8QklvYv4RjQdHahxQ"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1ufCgmk-9_cZXT7IqK5Fx9PqgXbB3NdRw"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1wJ1ACUCyRxA9T1iDWB9XByLhek388Xpm"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=12wLv1dN7ICsNRF78YUvzVaRbokCdcmR7"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(1).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(2).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(3).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(4).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(5).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(6).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(7).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(8).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(9).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(10).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(11).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(12).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(13).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(14).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(15).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(16).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(17).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(18).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(19).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(20).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(21).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(22).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(23).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(24).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(25).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(26).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(27).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(28).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(29).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(30).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(31).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(32).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(33).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(34).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(35).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(36).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(37).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(38).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(39).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(40).jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(41).jpg"></swiper-slide>
         </swiper>
     </div>
   </div>
@@ -179,6 +179,97 @@ export default {
 .swiper-button-next{
   color: rgb(219, 194, 178) !important;
 }
+#box {
+  width: 500px;
+  height: 300px;
+  box-shadow: inset 1px 1px 40px 0 rgba(0, 0, 0, 0.45);
+  border-bottom: 2px solid #fff;
+  border-right: 2px solid #fff;
+  margin: 5% auto 0 auto;
+  background-image: url("@/assets/Photos-27.jpg");
+  background-size: cover;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+#overlay {
+  background: rgba(0, 0, 0, 0.75);
+  text-align: center;
+  padding: 45px 0 66px 0;
+  opacity: 0;
+  -webkit-transition: opacity 0.25s ease;
+  -moz-transition: opacity 0.25s ease;
+  width: 500px;
+  height: 300px;
+}
+#plus {
+  font-family: 'Gruppo', cursive;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 62px;
+}
+
+@media (max-width: 657px) {
+  #overlay {
+    background: rgba(0, 0, 0, 0.75);
+    text-align: center;
+    padding: 45px 0 66px 0;
+    opacity: 0;
+    -webkit-transition: opacity 0.25s ease;
+    -moz-transition: opacity 0.25s ease;
+    width: 300px;
+    height: 200px;
+  }
+  #box {
+    width: 300px;
+    height: 200px;
+    box-shadow: inset 1px 1px 40px 0 rgba(0, 0, 0, 0.45);
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff;
+    margin: 5% auto 0 auto;
+    background-image: url("@/assets/Photos-27.jpg");
+    background-size: cover;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  #plus {
+    font-family: 'Gruppo', cursive;
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 26px;
+  }
+}
+#box:hover #overlay {
+  opacity: 1;
+}
+
+.default-slider .swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #000;
+  font-size: 24px;
+  font-weight: 700;
+  width: 100%;
+  height: 100vh;
+}
+.swiper{
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+swiper-wrapper{
+  height: 100vh;
+}
+@media (max-width: 657px) {
+  .images{
+    display: none;
+  }
+}
+@media (min-width: 657px) {
+
+  .images{
+    display: block;
+  }
+}
 .fade-enter-active,
 .fade-leave-active {
   transition: all 0.9s ease;
@@ -233,5 +324,33 @@ img {
 
 .prev:hover, .next:hover {
   background: #dbc2b2;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 300px;
+  height: 150px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.box{
+  width: 100px;
+  height: 50px;
+  background: #3B5998;
+  color: white;
+
 }
 </style>

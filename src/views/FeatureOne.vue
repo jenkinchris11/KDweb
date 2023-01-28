@@ -7,65 +7,66 @@
   <h2 style="font-family: 'Gruppo', cursive;color: rgb(219, 194, 178)">Martin & Micheal. - Stirk House</h2>
   <div>
       <div>
-        <swiper :navigation="true" :modules="modules" class="mySwiper">
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1-3HdUHWNWiiCxMGKD_mUMX_TvRMnXd2i"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1-Jhqn-Vlq15KSS2Ad3_o7ux-uaxF15Fu"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=11VJ33h5bMxNCftH_64t_YxSPstIpX7zK"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=13HD2wlh007__lf8nr44LZJURM_lOPL2w"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=14KetbzMwWTWbpR-DtFxtr0cDzx5FbKet"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=14aUnVzB04NfefNrQs2fJTrAnNkmXw-h5"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=16Qor8dnk8P_t1DJdcPyh7vtuhbUrsPuf"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=17PvBWaOPhdyn4FRuemv-9fHxZUvBrF_v"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=18FVrQ5FM8i2DdyjmNsvIggICDQY-ePej"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1910Foe8ZOGx7M6vBeRvAlG0_Ut6pgsHK"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=19AmcgUJ7iAeHxVXPe7KKNBmSwgJvBzmF"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1BqVn4Shk7eic19OCgXZbb9xgSe_r8ryL"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1BwKoSKBjy2JXeHCNYZotl36TmhN3KYxG"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1FRPgy65ekDugMSxMLnPIa0x70lgquwJ1"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1FWqT7zhXq0Sf6xBxJ5rDX5oMfHvAsQIJ"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1HMiQlI0UonhbKIWjHYJptdEbNJrkzZqR"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1JHR4DnnMRUccNgB_O2e-zQjBiyL2UNDa"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1JYs0kuaQtPAYUbf4aZZ_Yi7QN01WZnwh"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1JsxPh6SStwdXYCRc8grkCvbnUa9-dnpp"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1LiqrocXG5ZBXPC3Rt_61ROdP7g_SnNVd"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1MFNtEN501v1fkATIY5XQXbvemTvFgv7l"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1OG1ljSynC-oew4AslXTQ_gfmAR6tTicV"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1PDnD46gv1uy5jqLwpH3ZBZqSUeDrwReL"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1PTkvEFAXqgsWEub8DzWe06odSNPo1ZwT"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1RDB6rgQn7c37upE44NaO2o1JMtvTxr39"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1Rxdgdm0Tx_r1Iv378txfWMmlTDUpa_T_"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1S4LsqNz9RMOYjtth7B5xjXR4yA1whhJI"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1Tr2dpR4UNfZbH8zkxw93-AHOETPsXIJ5"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1UEUtP-YZdoItzk_G4h7XiLHrl4vjLPKs"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1V8jxK8uGOD_HNvvIn_1cRfEYDNoXKYRC"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1W99iMp8WgWmab9PlRC24g2SuqchBIcCP"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1WQlSkKjXvT4fTdA0xE1aX67o34bnP4r_"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1WiM-B-Y9fOaZhmGn-fOjqyiJ5PjhVvi8"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1X75oN-471hSXCkwgUwYdvCz8-Qb8eGd7"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1XEZQ4SH41luH2OCTE0IkEaA5dFZTrfwO"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1XdWh3XYo2yyDkt7iLSR5jcDo88LHGKpL"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1_yO5OijkgMx_LFS4-J4O1NIh57iWS5dj"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1bG1ye8Tcvhm93cRmxiuBWw76JVAqsrY0"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1bMgKWljH5CRROPWBvjo3fK7khddwDhB4"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1djl4MI3PooI0p44xk8mZX1oUL-qmS4fn"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1dvCKsR7SWhLTePUp6P_AQ6AhHtDZ5RlF"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1eN7mkgDSCqLR_crkD0IIguomS21inYG8"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1eQpqZo_C12e0zQAJvqY6oTJ23cJmmY8Y"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1fg-7NuSoS8G0dGgmQDqlZwn3wrHvKDWx"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1g-5FgRVCWmx0MUusZ_nXMGIe8LDzxn6S"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1gcVrtQIerpwJ3-sJ0t2qxJnjGp2TKCj4"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1hnEtXAn2sHUOoNy8A7M5kovuIer6Em3T"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1j-45Mvt2AutZbeiX8_s5wdHesVPCAMa3"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1jx08Rh4Ii8Xw8fp-VW_gWSKjlceq4-AS"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1mcyFHZkRcSL_uE7kLKcqXCgppoemwKaK"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1obmJrhahvLeyUOQRPCGDpUgJbkJaJBxj"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1phJuC0WdDVcOInOLiq7w3nsNAVXy2b46"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1seTXbo6QjhPANDuLZ3WaaA9sBR6EWFu-"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1u5ceWPSjglCq1nXaliiLuj7oC2gORrTz"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1uNbfuNIAju7XBADGoRIhZXgh7OcvdVIp"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1uy3PFDH0hG__hpVp5zeRDyk19zPsEitM"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1yKHaq6QwJaeNPneOAXOxyuZ-CSmn1CJ7"></swiper-slide>
-        <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1zgSp5vzXrDXUSIwdiuKpqdA64eM4tERw"></swiper-slide>
+        <swiper :navigation="true" :modules="modules" class="mySwiper sizer">
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-1.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-2.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-3.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-4.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-5.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-6.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-7.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-8.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-9.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-10.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-11.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-12.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-13.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-14.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-15.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-16.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-17.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-18.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-19.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-20.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-21.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-22.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-23.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-24.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-25.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-26.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-27.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-28.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-29.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-30.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-31.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-32.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-33.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-34.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-35.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-36.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-37.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-38.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-39.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-40.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-41.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-42.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-43.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-44.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-45.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-46.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-47.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-48.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-49.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-50.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-51.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-52.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-53.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-54.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-55.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-56.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-57.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-58.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature1\untitled-59.jpg"></swiper-slide>
         </swiper>
     </div>
   </div>
@@ -157,21 +158,21 @@ export default {
       currentIndex: 0
     }
   },
-      methods: {
+  methods: {
 
-        next: function() {
-          this.currentIndex += 1;
-        },
-        prev: function() {
-          this.currentIndex -= 1;
-        }
-      },
+    next: function() {
+      this.currentIndex += 1;
+    },
+    prev: function() {
+      this.currentIndex -= 1;
+    }
+  },
 
-      computed: {
-        currentImg: function() {
-          return this.images[Math.abs(this.currentIndex) % this.images.length];
-        }
-      },
+  computed: {
+    currentImg: function() {
+      return this.images[Math.abs(this.currentIndex) % this.images.length];
+    }
+  },
   setup() {
     const onSwiper = (swiper) => {
       console.log(swiper);
@@ -189,12 +190,102 @@ export default {
 </script>
 
 <style>
-
 .swiper-button-prev{
   color: rgb(219, 194, 178) !important;
 }
 .swiper-button-next{
   color: rgb(219, 194, 178) !important;
+}
+#box {
+  width: 500px;
+  height: 300px;
+  box-shadow: inset 1px 1px 40px 0 rgba(0, 0, 0, 0.45);
+  border-bottom: 2px solid #fff;
+  border-right: 2px solid #fff;
+  margin: 5% auto 0 auto;
+  background-image: url("@/assets/Photos-27.jpg");
+  background-size: cover;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+#overlay {
+  background: rgba(0, 0, 0, 0.75);
+  text-align: center;
+  padding: 45px 0 66px 0;
+  opacity: 0;
+  -webkit-transition: opacity 0.25s ease;
+  -moz-transition: opacity 0.25s ease;
+  width: 500px;
+  height: 300px;
+}
+#plus {
+  font-family: 'Gruppo', cursive;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 62px;
+}
+
+@media (max-width: 657px) {
+  #overlay {
+    background: rgba(0, 0, 0, 0.75);
+    text-align: center;
+    padding: 45px 0 66px 0;
+    opacity: 0;
+    -webkit-transition: opacity 0.25s ease;
+    -moz-transition: opacity 0.25s ease;
+    width: 300px;
+    height: 200px;
+  }
+  #box {
+    width: 300px;
+    height: 200px;
+    box-shadow: inset 1px 1px 40px 0 rgba(0, 0, 0, 0.45);
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff;
+    margin: 5% auto 0 auto;
+    background-image: url("@/assets/Photos-27.jpg");
+    background-size: cover;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  #plus {
+    font-family: 'Gruppo', cursive;
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 26px;
+  }
+}
+#box:hover #overlay {
+  opacity: 1;
+}
+
+.default-slider .swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #000;
+  font-size: 24px;
+  font-weight: 700;
+  width: 100%;
+  height: 100vh;
+}
+.swiper{
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+swiper-wrapper{
+  height: 100vh;
+}
+@media (max-width: 657px) {
+  .images{
+    display: none;
+  }
+}
+@media (min-width: 657px) {
+
+  .images{
+    display: block;
+  }
 }
 .fade-enter-active,
 .fade-leave-active {
@@ -250,5 +341,33 @@ img {
 
 .prev:hover, .next:hover {
   background: #dbc2b2;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 300px;
+  height: 150px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.box{
+  width: 100px;
+  height: 50px;
+  background: #3B5998;
+  color: white;
+
 }
 </style>

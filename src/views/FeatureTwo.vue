@@ -8,41 +8,41 @@
   <div>
       <div>
         <swiper :navigation="true" :modules="modules" class="mySwiper">
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=12V9I2TvlixppHgZ7iiVGZZImg92P3fXq"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=14Bg1u8P-GvP75OPdfYZ6w0RKcTjnaGcj"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=17hMK1m9ZQh2N-_GTlgapKoDYtL7s1lQs"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=18yVAbmBHQOZBPvTBEGlcg_YXs66GH_s3"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=19MCsJsAE8O76HH8haewopOwE4s0Finp2"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=19umq_50TcQis_JAVcCtiqIti4UtAdNlE"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1AphkZFAqBprp2exROoubYxfpGMuXIx5a"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1BDOFd32e6peNdl35ayvDnmilXKWdHWPU"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1CHNptuk7OEuBa5ktW6iM7SGHXpUgedcR"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1DUUWn2hOIjHlKZ2NQXnJedS7wTKcCj-w"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1H-Lb4HEVMEHF0SkI0Tu-0Fv2XDQBeWgE"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1HbewCkxa3cBlUH6NXGlz78cN_78Qb1Ht"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1IHy5bAp2EPQlQj-mADE0ot3hasJC3Szi"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1J1sUmfGyVnbzTJk9kpWwnSQg7sjpQ7kG"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1JhYRHyoke1ulwxRiWNBbsY1hZb2P9vRJ"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1MrVIs4Nfy8AOD4YQAqT6kOIbp9T02AHi"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1N4y32WcxYi7ttq-PBnrKxlSXiJKSwPD5"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1Qwsr_BlEIRWxPujxi13fmDpBl3gVkd_y"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1UhEVs4x5sPkzo7ZsabeGKP0HJD5Fq2hM"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1UloXHBKC0gvTQlAsKN32tcBzRXywhzXr"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1VUst8IBvad-cpGYR5VPk-ReGRuZdT8k8"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1Y4AkmMennWXJjoKi5gVE0wEj6yS-aIEw"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1ZfaYJXFk2z3EDxFw_dpUlMn6CQT6iJmx"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1dNK4d4fBs08fdzr74S-2xdr4asp-cuY2"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1fo4W86tqQx9OAd564nrvydqrG7YpGmsp"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1fuZJSe-DIPGooHT4JHqsPZN-n4VrltMf"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1ibE9QZ66P1GrAc4KYwZjJ7zQDUxjgp1D"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1jxO0xnmpN2MubjDFMCes3k2MGxoweW-l"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1lyAv5h14eoqP9V0FMuVVAm4P_S68LdoT"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1m6-D6vcGWtJ5B1SlieMEd_AwJJpyEmp5"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1nbK3RG-Mct30dAdNmzUbtNzST6TxRCee"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1omPkKp6FGPKvIqG_QKer1INzg3xkd4QU"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1rG6VZxOYmYpOFU7vlKIE5GerEgmpStQX"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1ufo4rDkLbcj-k0ZafdJjzPNiawkRwpzN"></swiper-slide>
-          <swiper-slide><img class="sizer" src="https://drive.google.com/uc?export=view&id=1a3zz6UMqEYa5iC4fRR0gG0WgPVJ3Gfp0"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-1.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-2.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-3.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-4.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-5.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-6.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-7.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-8.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-9.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-10.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-11.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-12.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-13.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-14.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-15.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-16.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-17.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-18.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-19.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-20.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-21.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-22.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-23.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-24.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-25.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-26.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-27.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-28.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-29.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-30.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-31.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-32.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-33.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-34.jpg"></swiper-slide>
+          <swiper-slide><img class="sizer" src="@\assets\feature2\untitled-35.jpg"></swiper-slide>
         </swiper>
     </div>
   </div>
@@ -173,6 +173,97 @@ export default {
 .swiper-button-next{
   color: rgb(219, 194, 178) !important;
 }
+#box {
+  width: 500px;
+  height: 300px;
+  box-shadow: inset 1px 1px 40px 0 rgba(0, 0, 0, 0.45);
+  border-bottom: 2px solid #fff;
+  border-right: 2px solid #fff;
+  margin: 5% auto 0 auto;
+  background-image: url("@/assets/Photos-27.jpg");
+  background-size: cover;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+#overlay {
+  background: rgba(0, 0, 0, 0.75);
+  text-align: center;
+  padding: 45px 0 66px 0;
+  opacity: 0;
+  -webkit-transition: opacity 0.25s ease;
+  -moz-transition: opacity 0.25s ease;
+  width: 500px;
+  height: 300px;
+}
+#plus {
+  font-family: 'Gruppo', cursive;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 62px;
+}
+
+@media (max-width: 657px) {
+  #overlay {
+    background: rgba(0, 0, 0, 0.75);
+    text-align: center;
+    padding: 45px 0 66px 0;
+    opacity: 0;
+    -webkit-transition: opacity 0.25s ease;
+    -moz-transition: opacity 0.25s ease;
+    width: 300px;
+    height: 200px;
+  }
+  #box {
+    width: 300px;
+    height: 200px;
+    box-shadow: inset 1px 1px 40px 0 rgba(0, 0, 0, 0.45);
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff;
+    margin: 5% auto 0 auto;
+    background-image: url("@/assets/Photos-27.jpg");
+    background-size: cover;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  #plus {
+    font-family: 'Gruppo', cursive;
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 26px;
+  }
+}
+#box:hover #overlay {
+  opacity: 1;
+}
+
+.default-slider .swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #000;
+  font-size: 24px;
+  font-weight: 700;
+  width: 100%;
+  height: 100vh;
+}
+.swiper{
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+swiper-wrapper{
+  height: 100vh;
+}
+@media (max-width: 657px) {
+  .images{
+    display: none;
+  }
+}
+@media (min-width: 657px) {
+
+  .images{
+    display: block;
+  }
+}
 .fade-enter-active,
 .fade-leave-active {
   transition: all 0.9s ease;
@@ -227,5 +318,33 @@ img {
 
 .prev:hover, .next:hover {
   background: #dbc2b2;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 300px;
+  height: 150px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.box{
+  width: 100px;
+  height: 50px;
+  background: #3B5998;
+  color: white;
+
 }
 </style>
