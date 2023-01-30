@@ -1,4 +1,6 @@
 <template class="no-scroll">
+  <meta property="og:image" content="https://kirstydoranphotography.co.uk/img/KDLogo.8acc7570.png">
+
   <link href="styles/ihover.css" rel="stylesheet">
   <div class="no-scroll">
     <div class="skw-pages" style="font-family: 'Gruppo'">

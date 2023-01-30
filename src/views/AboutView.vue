@@ -1,4 +1,5 @@
 <template>
+  <meta property="og:image" content="https://kirstydoranphotography.co.uk/img/KDLogo.8acc7570.png">
   <div class="containers">
     <div class="Left" style="padding-right: 50px">
       <img style="max-width: 50vw;box-shadow: 0 0 50px 50px white inset;

@@ -1,4 +1,6 @@
 <template>
+  <meta property="og:image" content="https://kirstydoranphotography.co.uk/img/KDLogo.8acc7570.png">
+
   <div class="Color">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <br><br>
