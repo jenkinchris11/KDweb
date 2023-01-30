@@ -1,5 +1,5 @@
 <template>
-  <meta property="og:image" content="https://kirstydoranphotography.co.uk/img/KDLogo.8acc7570.png">
+  <meta property="og:image" content="@\assets\KDLogo.jpg">
   <div class="section" id="contact">
     <h1 style="font-family: Gruppo, cursive; color: #908e8b;">Wedding Enquiry</h1>
     <p style="font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">If you are interested in booking me for a wedding please enter below your name,email and location of your wedding <br> and a little bit of information about you and your day</p>

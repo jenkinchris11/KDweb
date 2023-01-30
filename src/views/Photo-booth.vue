@@ -1,5 +1,5 @@
 <template>
-  <meta property="og:image" content="https://kirstydoranphotography.co.uk/img/KDLogo.8acc7570.png">
+  <meta property="og:image" content="@\assets\KDLogo.jpg">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <h1 style="font-family: 'Gruppo', cursive; color: #908e8b">Photo-Booth</h1>
     <br>

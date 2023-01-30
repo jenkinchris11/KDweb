@@ -1,5 +1,5 @@
 <template>
-  <meta property="og:image" content="https://kirstydoranphotography.co.uk/img/KDLogo.8acc7570.png">
+  <meta property="og:image" content="@\assets\KDLogo.jpg">
 
   <div class="Color">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
