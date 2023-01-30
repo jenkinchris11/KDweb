@@ -1,4 +1,6 @@
 <template>
+  <meta property="og:image" content="@/assets/KDLogo.png" />
+
   <h1 style="font-family: Gruppo, cursive; font-size: 46px; color: #908e8b;">Enquiries</h1>
   <br>
   <br>
