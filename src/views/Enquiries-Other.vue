@@ -1,13 +1,11 @@
 <template>
 
   <div class="section" id="contact">
-    <h1 style="font-family: Gruppo, cursive; color: #908e8b;">Wedding Enquiry</h1>
-    <p style="font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">If you are interested in booking me for a wedding please enter below your name,email and location of your wedding <br> and a little bit about of information about you and your day</p>
+    <h1 style="color: #908e8b;font-family: Gruppo, cursive;">Other Work Enquiries</h1>
     <form ref="form" @submit.prevent="sendEmail">
-      <label style="display: block; font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">Your Name</label><input ref="anyName" type="text" name="user_name">
-      <label style="display: block; font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">Your Location</label><input ref="anyName" type="location" name="location">
-      <label style="display: block; font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">Your Email</label><input ref="anyName" type="email" name="user_email">
-      <label style="display: block; font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">About Your Wedding</label><textarea ref="anyName" name="message"></textarea>
+      <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Your Name</label><input ref="anyName" type="text" name="user_name">
+      <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Your Email</label><input ref="anyName" type="email" name="user_email">
+      <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">About Your Enquiry</label><textarea ref="anyName" name="message"></textarea>
       <br>
       <input style="display: flex; left: 50%; top: 50%; margin: 0 auto;" ref="anyName" type="submit" value="Send">
     </form>
