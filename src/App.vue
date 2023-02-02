@@ -9,13 +9,13 @@
   <link href="https://fonts.googleapis.com/css2?family=Gruppo&display=swap" rel="stylesheet">
   <title>Kirsty Doran Photography </title>
   <nav class="Width navbar navbar-light bg-faded" style=" flex-wrap: nowrap; justify-content: flex-start; padding: 15px; background: #dbc2b2; border-bottom: 5px solid white">
-    <button class="navbar-toggler hidden-sm-up" type="button">
+    <button class="navbar-toggler hidden-sm-up" type="button" style="color: white">
       &#9776;
     </button>
     <router-link to="/" class="nav-link"><img class="Logo" src="@/assets/KDLogo.png" style="height: 150px"></router-link>
     <div class="nav-slider" style="flex-wrap: nowrap">
       <ul class="nav navbar-navs" style="padding: 5px; color: white;text-decoration: none; --bs-nav-link-hover-color: white; --bs-nav-link-color: white">
-        <button class="navbar-close hidden" type="button" style="border: none; background: #dbc2b2">
+        <button class="navbar-close hidden" type="button" style="border: none; background: #dbc2b2; color: white">
           &#9776;
         </button>
         <li class="nav-mask" style="padding-left: 25px; font-family: 'Gruppo', cursive; background: none;">
