@@ -1,6 +1,5 @@
 <template>
-  <meta property="og:image" content="@\assets\KDLogo.jpg">
-
+  <meta property="og:image" content="https://drive.google.com/uc?export=view&id=1xJQZc9QwMsDWNS6yNu1kEMyqXiKtORX9">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Gruppo&display=swap" rel="stylesheet">
