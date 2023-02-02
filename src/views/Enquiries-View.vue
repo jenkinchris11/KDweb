@@ -5,7 +5,7 @@
     <p style="font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">If you are interested in booking me for a wedding please enter below your name,email and location of your wedding <br> and a little bit of information about you and your day</p>
     <form ref="form" @submit.prevent="sendEmail">
       <label style="display: block; font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">Your Name</label><input ref="anyName" type="text" name="user_name">
-      <label style="display: block; font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">Your Location</label><input ref="anyName" type="location" name="location">
+      <label style="display: block; font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">Location Of Your Wedding</label><input ref="anyName" type="location" name="location">
       <label style="display: block; font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">Your Email</label><input ref="anyName" type="email" name="user_email">
       <label style="display: block; font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">About Your Wedding</label><textarea ref="anyName" name="message"></textarea>
       <br>

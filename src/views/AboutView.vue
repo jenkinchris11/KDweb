@@ -2,13 +2,12 @@
   <meta property="og:image" content="@\assets\KDLogo.jpg">
   <div class="containers">
     <div class="Left" style="padding-right: 50px">
-      <img style="max-width: 50vw;box-shadow: 0 0 50px 50px white inset;
-"  src="@/assets/About.jpg">
+      <img style="max-width: 50vw;"  src="@/assets/About.jpg">
     </div>
     <div class="Right">
 
           <br>
-          <p class="Center" style="color: #908e8b; font-size: 24px; font-family: 'Gruppo', cursive;">Hopefully you are still interested at this point and would like to know a little about me!
+          <p class="Center" style="color: #908e8b; font-size: 20px; font-family: 'Gruppo', cursive;">Hopefully you are still interested at this point and would like to know a little about me!
           <br>
           <br>
 
@@ -42,7 +41,7 @@
 <style scoped>
 
 img {
-  height: 100%;
+  height: 80vh;
   max-width: 100%;
   -o-object-fit: contain;
   object-fit: contain;
@@ -54,18 +53,21 @@ img {
 }
 .Center{
   text-align: left;
-  width: 700px;
+  width: 1200px;
   padding: 30px;
+  height: 75vh;
 }
 .Right{
   text-align:left;
   width: 200px;
   flex: 1;
   left: 200px;
+  height: 75vh;
+
 
 }
 .Left{
-
+ height: 75vh;
 }
 .containers {
   display: flex;
