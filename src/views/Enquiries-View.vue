@@ -1,6 +1,7 @@
 <template>
   <meta property="og:image" content="https://scontent-lcy1-1.xx.fbcdn.net/v/t39.30808-6/325792514_513629890869331_8323829041432717049_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=qVaOROpVZo4AX8GEt4A&_nc_ht=scontent-lcy1-1.xx&oh=00_AfDzCO1HdakOY0FrPTheTBNSqrSwktigX9YhsxXbZDODiA&oe=63E0DBD0">
   <meta name="googlebot" content="noindex">
+  <meta name="robots" content="noindex">
   <div class="section" id="contact">
     <h1 style="font-family: Gruppo, cursive; color: #908e8b;">Wedding Enquiry</h1>
     <p style="font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">If you are interested in booking me for a wedding please enter below your name,email and location of your wedding <br> and a little bit of information about you and your day</p>
