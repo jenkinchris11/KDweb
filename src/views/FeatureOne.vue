@@ -308,7 +308,7 @@ swiper-wrapper{
 }
 
 img {
-  height: 75vh;
+  height: 65vh;
   max-width: 100%;
   object-fit: contain;
 }

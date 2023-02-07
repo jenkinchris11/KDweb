@@ -11,47 +11,47 @@
   <div>
       <div>
         <swiper :navigation="true" :modules="modules" class="mySwiper">
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(1).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(2).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(3).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(4).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(5).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(6).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(7).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(8).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(9).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(10).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(11).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(12).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(13).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(14).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(15).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(16).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(17).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(18).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(19).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(20).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(21).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(22).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(23).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(24).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(25).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(26).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(27).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(28).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(29).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(30).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(31).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(32).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(33).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(34).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(35).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(36).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(37).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(38).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(39).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(40).jpg"></swiper-slide>
-          <swiper-slide><img class="sizer" src="@\assets\feature4\unitiled(41).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(1).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(2).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(3).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(4).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(5).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(6).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(7).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(8).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(9).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(10).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(11).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(12).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(13).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(14).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(15).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(16).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(17).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(18).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(19).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(20).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(21).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(22).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(23).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(24).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(25).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(26).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(27).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(28).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(29).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(30).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(31).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(32).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(33).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(34).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(35).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(36).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(37).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(38).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(39).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(40).jpg"></swiper-slide>
+          <swiper-slide><img class="" src="@\assets\feature4\unitiled(41).jpg"></swiper-slide>
         </swiper>
     </div>
   </div>
@@ -288,7 +288,7 @@ export default {
 }
 
 img {
-  height: 75vh;
+  height: 65vh;
   max-width: 100%;
   object-fit: contain;
 }
