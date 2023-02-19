@@ -42,7 +42,7 @@
           <router-link to="/Enquiries" class="nav-link" style="font-family: 'Gruppo', cursive;text-decoration: none;color: white; font-size: 30px;">Enquiries</router-link>
         </li>
         <li href="https://www.facebook.com/KirstyDoranphoto87/reviews?locale=en_GB" class="nav-mask" style="padding-left: 25px; font-family: 'Gruppo', cursive; background: none;">
-          <p href="https://www.facebook.com/KirstyDoranphoto87/reviews?locale=en_GB" style="font-family: 'Gruppo', cursive;text-decoration: none;color: white; font-size: 30px;">Testimonials</p>
+          <a href="https://www.facebook.com/KirstyDoranphoto87/reviews?locale=en_GB" style="font-family: 'Gruppo', cursive;text-decoration: none;color: white; font-size: 30px;">Testimonials</a>
         </li>
       </ul>
     </div>
