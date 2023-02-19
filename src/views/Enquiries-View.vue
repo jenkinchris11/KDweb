@@ -8,8 +8,8 @@
     <p style="font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">If you are interested in booking me for a wedding please enter below your name,email and location of your wedding <br> and a little bit of information about you and your day</p>
     <form ref="form" @submit.prevent="sendEmail">
       <label style="display: block; font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">Your Name</label><input ref="anyName" type="text" name="user_name">
-      <label style="display: block; font-family: Gruppo, cursive; font-size: 22px; color: #908e8b; width: 50vw;padding: 12px;border: 1px solid #ccc;border-radius: 4px;box-sizing: border-box;margin-top: 6px; margin-bottom: 16px;resize: vertical;">Location Of Your Wedding</label><input ref="anyName" type="location" name="location">
-      <label style="display: block; font-family: Gruppo, cursive; font-size: 22px; color: #908e8b; width: 50vw;padding: 12px;border: 1px solid #ccc;border-radius: 4px;box-sizing: border-box;margin-top: 6px; margin-bottom: 16px;resize: vertical;">Date Of Your Wedding</label><input ref="anyName" type="date" name="date">
+      <label style="display: block; font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">Location Of Your Wedding</label><input style=" width: 50vw;padding: 12px;border: 1px solid #ccc;border-radius: 4px;box-sizing: border-box;margin-top: 6px; margin-bottom: 16px;resize: vertical;" ref="anyName" type="location" name="location">
+      <label style="display: block; font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">Date Of Your Wedding</label><input style=" width: 50vw;padding: 12px;border: 1px solid #ccc;border-radius: 4px;box-sizing: border-box;margin-top: 6px; margin-bottom: 16px;resize: vertical;" ref="anyName" type="date" name="date">
       <label style="display: block; font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">Your Email</label><input ref="anyName" type="email" name="user_email">
       <label style="display: block; font-family: Gruppo, cursive; font-size: 22px; color: #908e8b;">About Your Wedding</label><textarea ref="anyName" name="message"></textarea>
       <br>
