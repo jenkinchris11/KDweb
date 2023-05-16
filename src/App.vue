@@ -2,6 +2,7 @@
   <meta property="og:image" content="https://drive.google.com/uc?export=view&id=1xJQZc9QwMsDWNS6yNu1kEMyqXiKtORX9" />
   <meta name="description" content="Professional wedding and portrait photographer traveling the uk in my little camper shooting weddings">
   <meta name="google-site-verification" content="H7n1yxjk1UMuusSC0VE8oYdYA8G8wM0RXNvtuPPfutk" />
+  <meta name="facebook-domain-verification" content="rjf8wf40nju5ypbzjapjyjt0ckwsrs" />
   <div style="background: #f4ece0; width: 100vw; height: 100vh; overflow-x: hidden">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
