@@ -5,7 +5,7 @@
   <meta name="robots" content="noindex">
   <div class="containers">
     <div class="Left" style="padding-right: 50px">
-      <img style="max-width: 50vw;"  src="@/assets/About.jpg">
+      <img class="magic" style="max-width: 50vw;"  src="@/assets/About.jpg">
     </div>
     <div class="Right">
 
@@ -29,9 +29,13 @@
             Having attended more weddings than most, I am quite knowledgeable about the proceedings, from the formal side of the services to the informal fun parts of the day, which vary from wedding to wedding and the individuals.
             <br>
             <br>
-            I am confident in my role from being in the industry for years. And I like to think of myself as friendly, approachable, professional and always happy to help. </p>
+            I am confident in my role from being in the industry for years. And I like to think of myself as friendly, approachable, professional and always happy to help.
+            <br>
+            <img style="height: 50vh" :src="require('@/assets/finalist.png')">
+          </p>
       </div>
         <div>
+
     </div>
   </div>
 </template>
@@ -42,6 +46,14 @@
 </script>
 
 <style scoped>
+@media only screen and (max-width: 500px) {
+  .magic {
+    display: none;
+  }
+}
+@media (max-width: 1026px) {
+  #magic { display: none; }
+}
 
 img {
   height: 80vh;

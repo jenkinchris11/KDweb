@@ -10,7 +10,8 @@
     <a href="https://www.instagram.com/kirstydoranphotography/?hl=en" class="fa fa-instagram"></a>
     <a href="https://www.google.com/search?q=kirsty+doran+photography&ei=k6jKY5v-AcuD8gLs8oOoDw&gs_ssp=eJzj4tVP1zc0TKtITq6Iz403YLRSMagwsTBPskwzMjG0SDRKMbYwtjKosDQ0SjY1T01JsTBOMU0z8ZLIziwqLqlUSMkvSsxTKMjIL8lPL0osyKgEAJ1YGO4&oq=kirsty+doran+pho&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgsILhCABBDHARCvAToICAAQogQQsAM6CggAEB4QogQQsANKBAhBGAFKBAhGGABQ9AZY9w5gjBNoAXAAeACAAWaIAZ4CkgEDMi4xmAEAoAEByAEFwAEB&sclient=gws-wiz-serp" class="fa fa-google"></a>
     <a href="https://www.linkedin.com/in/kirsty-doran-4a176462/?originalSubdomain=uk" class="fa fa-linkedin"></a>
-
+    <br>
+    <img style="height: 50vh" :src="require('@/assets/finalist.png')">
   </div>
 
 </template>
