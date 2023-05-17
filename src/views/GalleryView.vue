@@ -95,6 +95,29 @@
         <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-54.jpg"></swiper-slide>
         <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-55.jpg"></swiper-slide>
         <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-56.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-57.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-58.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-59.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-60.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-61.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-62.jpg"></swiper-slide>
+        <swiper-slide ><img class="sizer" src="@\assets\wedding\untitled-63.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-64.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-65.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-66.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-67.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-68.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-69.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-70.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-71.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-72.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-73.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-74.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-75.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-76.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-77.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-78.jpg"></swiper-slide>
+        <swiper-slide><img class="sizer" src="@\assets\wedding\untitled-79.jpg"></swiper-slide>
       </swiper>
     </div>
   </div>
