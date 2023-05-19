@@ -25,6 +25,12 @@
     <p class="Padder" style="font-family: 'Gruppo', cursive;  align-self: center; color: #908e8b; padding-bottom: 10px;  ">Travel Costs Apply After A 40 Mile Radius Of Oswaldtwistle.</p>
 
   </div>
+  <br>
+  <footer style="font-family: 'Gruppo', cursive; font-size: 20px">
+    Copyright © 2023 Kirsty Doran Photography.
+    <br>
+    All Rights Reserved
+  </footer>
 </template>
 
 <script>

@@ -129,7 +129,13 @@
     </div>
 
   </div>
-
+  <br>
+  <br>
+  <footer style="font-family: 'Gruppo', cursive; font-size: 20px">
+    Copyright © 2023 Kirsty Doran Photography.
+    <br>
+    All Rights Reserved
+  </footer>
 </template>
 <script>
 // Import Swiper styles
