@@ -1,5 +1,5 @@
 <template class="no-scroll" style="background: #f4ece0;">
-  <meta property="og:image" content="@/assets/KDLogo.png" />
+  <meta property="og:image" content="https://drive.google.com/file/d/1xJQZc9QwMsDWNS6yNu1kEMyqXiKtORX9/view?usp=share_link" />
   <meta name="description" content="Professional wedding and portrait photographer traveling the uk in my little camper shooting weddings">
   <meta name="google-site-verification" content="H7n1yxjk1UMuusSC0VE8oYdYA8G8wM0RXNvtuPPfutk" />
   <head>
