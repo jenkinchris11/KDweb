@@ -1,5 +1,5 @@
 <template>
-  <meta property="og:image" content="https://drive.google.com/uc?export=view&id=1xJQZc9QwMsDWNS6yNu1kEMyqXiKtORX9" />
+  <meta property="og:image" content="https://drive.google.com/file/d/1xJQZc9QwMsDWNS6yNu1kEMyqXiKtORX9/view?usp=share_link">
   <meta name="googlebot" content="noindex">
   <meta name="robots" content="noindex">
   <link rel="preconnect" href="https://fonts.googleapis.com">
