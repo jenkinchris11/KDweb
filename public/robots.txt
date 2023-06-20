@@ -1,6 +1,9 @@
+User-agent: *
+Allow: /
 User-agent: Googlebot
 Allow: / 
 Allow: /Weddings-View
+User-agent: Googlebot
 Disallow:/about
 Disallow:/Photo-booth
 Disallow:/Weddings&Packages
