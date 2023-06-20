@@ -1,5 +1,7 @@
 <template>
   <meta property="og:image" content="https://drive.google.com/file/d/1xJQZc9QwMsDWNS6yNu1kEMyqXiKtORX9/view?usp=share_link">
+  <meta name="googlebot" content="noindex">
+  <meta name="robots" content="noindex">
   <meta name="description" content="Professional wedding and portrait photographer traveling the uk in my little camper shooting weddings">
   <link href="https://fonts.googleapis.com/css2?family=Gruppo&display=swap" rel="stylesheet">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
