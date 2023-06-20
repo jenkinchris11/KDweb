@@ -1,8 +1,9 @@
 User-agent: *
 Allow: /
+Allow: /Gallery
 User-agent: Googlebot
 Allow: / 
-Allow: /Weddings-View
+Allow: /Gallery
 User-agent: Googlebot
 Disallow:/about
 Disallow:/Photo-booth
@@ -19,4 +20,4 @@ Disallow:/Feature-One
 Disallow:/Feature-Two
 Disallow:/Feature-Three
 Disallow:/Feature-Four
-Disallow:/Gallery
+Disallow:/Weddings-View
