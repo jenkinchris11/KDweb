@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Allow: /Gallery
+Allow: /Weddings-View
 Disallow:/about
 Disallow:/Photo-booth
 Disallow:/Weddings&Packages
@@ -16,4 +16,4 @@ Disallow:/Feature-One
 Disallow:/Feature-Two
 Disallow:/Feature-Three
 Disallow:/Feature-Four
-Disallow:/Weddings-View
+Disallow:/Gallery
