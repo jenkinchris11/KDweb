@@ -1,1 +1,20 @@
-
+User-agent: *
+Allow: /
+Allow: /Gallery
+Disallow:/about
+Disallow:/Photo-booth
+Disallow:/Weddings&Packages
+Disallow:/Booth-one
+Disallow:/Booth-two
+Disallow:/Booth-three
+Disallow:/Booth-four
+Disallow:/Social-Links
+Disallow:/Enquiries
+Disallow:/Enquiries-Weddings
+Disallow:/Enquiries-Other
+Disallow:/Feature-One
+Disallow:/Feature-Two
+Disallow:/Feature-Three
+Disallow:/Feature-Four
+Disallow:/Weddings-View
+Disallow:/
