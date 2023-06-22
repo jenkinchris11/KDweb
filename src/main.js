@@ -3,7 +3,19 @@ import App from './App.vue'
 import router from './router'
 import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap"
+import VueGtag from "vue-gtag-next";
 
+const app = createApp(App);
+
+app.use(router)
+
+app.use(VueGtag, {
+    property: {
+        id: "xxxmypropertyidxxx"
+    }
+});
+
+app.mount('#app')
 
 import $ from 'jquery'
 $(function() {
@@ -76,4 +88,3 @@ $(document).ready(function() {
 
 });
 
-createApp(App).use(router).mount('#app')
