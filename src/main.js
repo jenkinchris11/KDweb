@@ -11,7 +11,7 @@ app.use(router)
 
 app.use(VueGtag, {
     property: {
-        id: "xxxmypropertyidxxx"
+        id: "AW-10777486362"
     }
 });
 
