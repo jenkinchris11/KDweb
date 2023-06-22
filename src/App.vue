@@ -4,6 +4,15 @@
   <meta name="google-site-verification" content="H7n1yxjk1UMuusSC0VE8oYdYA8G8wM0RXNvtuPPfutk" />
   <head>
   <meta name="facebook-domain-verification" content="rjf8wf40nju5ypbzjapjyjt0ckwsrs" />
+    <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-10777486362"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'AW-10777486362');
+  </script>
   </head>
   <div style="background: #f4ece0; width: 100vw; height: 100vh; overflow-x: hidden">
   <link rel="preconnect" href="https://fonts.googleapis.com">
