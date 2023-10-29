@@ -12,7 +12,12 @@
         <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiVGdsRVJvWjVvMW1ZOEVlOUJUeVlicTRTQ1J5R3NOK1c5aGV5NHJnc2taWGtlMU5obTArWXFneFM1b0twMVJwUW9MRmpLcWRlMkFFd0VvWVYwQitIYjFYcTkrcTV4TXROcGpHc3JjU0E4NU9zU09oWnEvbUlpM2ZjQWhjYmxKUTdTV0NRdGtOUEtBPT0iLCJzIjoiZ3I2aStkRDNtQTRVaEMxREF2dTdpQT09IiwiaSI6IlBZWmpCOTlJeUtPdDJ1ZnMifQ==" style="font-family: 'Gruppo', cursive; font-size: 24px; text-decoration: none; color: #908e8b">Download</a>
         <hr style="border: 1px solid grey; width: 800px">
     </div>
-	
+	<div>
+      <hr style="border: 1px solid grey; width: 800px">
+      <p style="font-family: 'Gruppo', cursive; font-size: 30px; color: #908e8b">Mr & Mrs Gates</p>
+        <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiVGdsRVJvWjVvMW1ZOEVlOUJUeVlicTRTQ1J5R3NOK1c5aGV5NHJnc2taWGtlMU5obTArWXFneFM1b0twMVJwUW9MRmpLcWRlMkFFd0VvWVYwQitIYjFYcTkrcTV4TXROcGpHc3JjU0E4NU9zU09oWnEvbUlpM2ZjQWhjYmxKUTdTV0NRdGtOUEtBPT0iLCJzIjoiZ3I2aStkRDNtQTRVaEMxREF2dTdpQT09IiwiaSI6IlBZWmpCOTlJeUtPdDJ1ZnMifQ==" style="font-family: 'Gruppo', cursive; font-size: 24px; text-decoration: none; color: #908e8b">Download</a>
+        <hr style="border: 1px solid grey; width: 800px">
+    </div>
     <div>
       <hr style="border: 1px solid grey; width: 800px">
       <p style="font-family: 'Gruppo', cursive; font-size: 30px; color: #908e8b">Mr & Mrs Ellis </p>
@@ -20,12 +25,7 @@
       <hr style="border: 1px solid grey; width: 800px">
     </div>
 	  
-    <div>
-      <hr style="border: 1px solid grey; width: 800px">
-      <p style="font-family: 'Gruppo', cursive; font-size: 30px; color: #908e8b">Mr & Mrs Fraser </p>
-      <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiajZtcnF5NXYxYlIvSTlsUSt6RlN5b3dIdjF4cGpGODVwTW5BQXNpOFpnZFhnQnIrODNmZDRTNllZamR2VkJrUnFIUFU2aXR3SUZBNmZGQUhtYjBSV05FbWtyR3BoeE92NmdRZzMyK0QwaVRuS1F0dVQ4d0FLUDl5MU50cTVnenFnZ1BmYU9XWU9RPT0iLCJzIjoicFcybzJBQ0E5WTc1enQzbXMvZTgvZz09IiwiaSI6IkFPdkVMdGlkZGJIVTF4aDQifQ==" style="font-family: 'Gruppo', cursive; font-size: 24px; text-decoration: none; color: #908e8b">Download</a>
-      <hr style="border: 1px solid grey; width: 800px">
-    </div>
+
   </div>
   <br>
   <br>
