@@ -12,20 +12,12 @@
         <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiVGdsRVJvWjVvMW1ZOEVlOUJUeVlicTRTQ1J5R3NOK1c5aGV5NHJnc2taWGtlMU5obTArWXFneFM1b0twMVJwUW9MRmpLcWRlMkFFd0VvWVYwQitIYjFYcTkrcTV4TXROcGpHc3JjU0E4NU9zU09oWnEvbUlpM2ZjQWhjYmxKUTdTV0NRdGtOUEtBPT0iLCJzIjoiZ3I2aStkRDNtQTRVaEMxREF2dTdpQT09IiwiaSI6IlBZWmpCOTlJeUtPdDJ1ZnMifQ==" style="font-family: 'Gruppo', cursive; font-size: 24px; text-decoration: none; color: #908e8b">Download</a>
         <hr style="border: 1px solid grey; width: 800px">
     </div>
-	<div>
-      <hr style="border: 1px solid grey; width: 800px">
-      <p style="font-family: 'Gruppo', cursive; font-size: 30px; color: #908e8b">Mr & Mrs Fraser</p>
-        <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiY1ZJekRxYkZkWUp0VnBPQjZ0SHB0ajdOaXo1dndKUTRCRkFPVE9FMkVpeXZyVFBRbkd1b25aYW5rRmVSMW52UDA2cXFxREZKVHA4ekJiOE9TUFdsREdDTkNWVjYxdURscjRYQWE5SVlDMWFyQXdwUThXaXFyY0cvNlJWUUU2UytUUjNsYTlBN1d3PT0iLCJzIjoiNzh3MGR1V2FPMWdzRjd2UnE4TmNUdz09IiwiaSI6ImhFN3hySWZZUVpqUkQ5Zk0ifQ==" style="font-family: 'Gruppo', cursive; font-size: 24px; text-decoration: none; color: #908e8b">Download</a>
-        <hr style="border: 1px solid grey; width: 800px">
-    </div>
     <div>
       <hr style="border: 1px solid grey; width: 800px">
       <p style="font-family: 'Gruppo', cursive; font-size: 30px; color: #908e8b">Mr & Mrs Ellis </p>
       <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiSUVJMU1qRldlb3N2QVBUU3V0U0hGbHRrL1FYM1RRTmJYVmJpbGllWEFzWEJnK1NMNnJ6eDFsNG9nQjd2czBSVDR0MFpkSUc0OEhneU4rdXlMeEtZTmFiRmphN2ZJYmlCYjB2WVFlbkZDUFh5bm9zTFVtVlZ2Q2lmQ3BNc3M2aGh6a29qQWJ5YzV3PT0iLCJzIjoiUHNNRzFkVHI4bWVseFlqdnJjcnVlZz09IiwiaSI6IkVhMDhOZkFFakszVldoUVEifQ==" style="font-family: 'Gruppo', cursive; font-size: 24px; text-decoration: none; color: #908e8b">Download</a>
       <hr style="border: 1px solid grey; width: 800px">
     </div>
-	  
-
   </div>
   <br>
   <br>
