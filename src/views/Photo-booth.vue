@@ -6,12 +6,6 @@
   <div style="display: flex; flex-direction: column; align-items: center;">
     <h1 style="font-family: 'Gruppo', cursive; color: #908e8b">Photo-Booth</h1>
     <br>
-    <div>
-      <hr style="border: 1px solid grey; width: 800px">
-      <p style="font-family: 'Gruppo', cursive; font-size: 30px; color: #908e8b">Mr & Mrs Gates</p>
-        <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiVGdsRVJvWjVvMW1ZOEVlOUJUeVlicTRTQ1J5R3NOK1c5aGV5NHJnc2taWGtlMU5obTArWXFneFM1b0twMVJwUW9MRmpLcWRlMkFFd0VvWVYwQitIYjFYcTkrcTV4TXROcGpHc3JjU0E4NU9zU09oWnEvbUlpM2ZjQWhjYmxKUTdTV0NRdGtOUEtBPT0iLCJzIjoiZ3I2aStkRDNtQTRVaEMxREF2dTdpQT09IiwiaSI6IlBZWmpCOTlJeUtPdDJ1ZnMifQ==" style="font-family: 'Gruppo', cursive; font-size: 24px; text-decoration: none; color: #908e8b">Download</a>
-        <hr style="border: 1px solid grey; width: 800px">
-    </div>
 	<div>
       <hr style="border: 1px solid grey; width: 800px">
       <p style="font-family: 'Gruppo', cursive; font-size: 30px; color: #908e8b">Mr & Mrs Fraser</p>
@@ -24,6 +18,12 @@
       <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiSUVJMU1qRldlb3N2QVBUU3V0U0hGbHRrL1FYM1RRTmJYVmJpbGllWEFzWEJnK1NMNnJ6eDFsNG9nQjd2czBSVDR0MFpkSUc0OEhneU4rdXlMeEtZTmFiRmphN2ZJYmlCYjB2WVFlbkZDUFh5bm9zTFVtVlZ2Q2lmQ3BNc3M2aGh6a29qQWJ5YzV3PT0iLCJzIjoiUHNNRzFkVHI4bWVseFlqdnJjcnVlZz09IiwiaSI6IkVhMDhOZkFFakszVldoUVEifQ==" style="font-family: 'Gruppo', cursive; font-size: 24px; text-decoration: none; color: #908e8b">Download</a>
       <hr style="border: 1px solid grey; width: 800px">
     </div>
+	<div>
+      <hr style="border: 1px solid grey; width: 800px">
+      <p style="font-family: 'Gruppo', cursive; font-size: 30px; color: #908e8b">Mr & Mrs Fisher-Bray</p>
+        <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNTFVb05FUjBsZzdxUmNCaXRKZW5OQVBESmFYRDhicEs3VkxLNXdUbmc1RittYWJXUWxEUWxyd01hU2d4K1lKT24vNitnbVhpYVhHSCtIcWk3WmxjejFVZHJIVnZWZnFFTTdYUStMSlpQeXVxQ0J6RHdIL29EZz09IiwicyI6Ikl5TGZKWm5ERG5yaUpXMlVQaWYySUE9PSIsImkiOiJLdW04T1lHcHBKQnBwLzQ0In0=" style="font-family: 'Gruppo', cursive; font-size: 24px; text-decoration: none; color: #908e8b">Download</a>
+        <hr style="border: 1px solid grey; width: 800px">
+    </div>  
   </div>
   <br>
   <br>
