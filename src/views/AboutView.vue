@@ -32,6 +32,8 @@
             I am confident in my role from being in the industry for years. And I like to think of myself as friendly, approachable, professional and always happy to help.
             <br>
             <img style="height: 25vh" :src="require('@/assets/finalist.png')">
+            <br>
+            <img style="height: 25vh" :src="require('@/assets/industry.JPG')">
           </p>
       </div>
         <div>
