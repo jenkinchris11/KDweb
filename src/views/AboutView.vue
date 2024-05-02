@@ -50,6 +50,8 @@
     Copyright © 2023 Kirsty Doran Photography.
     <br>
     All Rights Reserved
+    <img style="height: 25vh" :src="require('@/assets/finalist.png')">
+    <img style="height: 25vh" :src="require('@/assets/industry.jpg')">  
   </footer>
 </template>
 
