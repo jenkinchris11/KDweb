@@ -32,10 +32,6 @@
             I am confident in my role from being in the industry for years. And I like to think of myself as friendly, approachable, professional and always happy to help.
             <br>
           </p>
-          <div>
-            <img style="height: 25vh" :src="require('@/assets/finalist.png')">
-            <img style="height: 25vh" :src="require('@/assets/industry.jpg')">  
-          </div>
       </div>
         <div>
 
@@ -50,6 +46,7 @@
     Copyright © 2023 Kirsty Doran Photography.
     <br>
     All Rights Reserved
+    <br>
     <img style="height: 25vh" :src="require('@/assets/finalist.png')">
     <img style="height: 25vh" :src="require('@/assets/industry.jpg')">  
   </footer>
