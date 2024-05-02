@@ -36,7 +36,7 @@
                 <br>
                 <img style="height: 25vh" :src="require('@/assets/industry.jpg')">
               </div>  
-            </p>
+          </p>
       </div>
         <div>
 
