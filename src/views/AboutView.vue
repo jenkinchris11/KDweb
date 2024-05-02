@@ -13,7 +13,6 @@
           <p class="Center" style="color: #908e8b; font-size: 20px; font-family: 'Gruppo', cursive;">Hopefully you are still interested at this point and would like to know a little about me!
           <br>
           <br>
-
             After my formal training as a photographer I spent some time practicing different areas of photography. I initially focused my interest on fashion, to find what I was actually more attracted to and enjoyed was the human element of photography, from the classic pose to the more modern documentary image styles.
             <br>
             <br>
@@ -36,7 +35,7 @@
             <br>
             <img style="height: 25vh" :src="require('@/assets/industry.jpg')">
             </div>
-           </p>
+          </p>
       </div>
         <div>
 
