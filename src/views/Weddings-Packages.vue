@@ -22,7 +22,7 @@
   <img class="Sizer-Yellow" style=" font-family: 'Amatic SC', cursive; bottom: 15px" src="@/assets/YellowBox.png" />
     <img  class="Sizer-Offer" style="" src="@/assets/Offers.png"/>
     <p class="Padder" style="font-family: 'Gruppo', cursive;  align-self: center; color: #908e8b; margin-bottom: 0.1rem; ">If you find that these packages do not meet your requirements then I’m happy to tailor you a more bespoke package and quote.</p>
-    <p class="Padder" style="font-family: 'Gruppo', cursive;  align-self: center; color: #908e8b; padding-bottom: 10px;  ">Travel Costs Apply After A 40 Mile Radius Of Oswaldtwistle.</p>
+    
 
   </div>
   <br>
