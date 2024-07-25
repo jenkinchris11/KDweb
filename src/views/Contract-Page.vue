@@ -34,13 +34,13 @@
           <div class="form-section">
             <h2 style="color: #908e8b;font-family: Gruppo, cursive;">Wedding Details</h2>
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Chosen Package</label>
-            <input type="text" v-model="formData.chosenPackage" required>
+            <input type="text" v-model="formData.chosenPackage" readonly>
 
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Date of Wedding</label>
             <input type="date" v-model="formData.dateOfWedding" required>
 
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Amount of Hours Included</label>
-            <input type="number" v-model="formData.hoursIncluded" required>
+            <input type="number" v-model="formData.hoursIncluded" readonly>
 
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Prep Time</label>
             <input type="time" v-model="formData.prepTime" required>
