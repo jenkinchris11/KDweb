@@ -9,7 +9,7 @@
     <div class="section" id="contact">
       <!-- Contract title -->
       <h1 style="color: #908e8b;font-family: Gruppo, cursive;">Wedding Contract Page</h1>
-
+      <br>
       <!-- Contract 1 form -->
       <div v-if="!codeVerified1 && !codeVerified2">
         <h2 style="color: #908e8b;font-family: Gruppo, cursive;">Enter Code for Contract</h2>
@@ -19,6 +19,7 @@
 
       <div v-if="codeVerified1">
         <h2 style="color: #908e8b;font-family: Gruppo, cursive;">Contract 1</h2>
+        <br>
         <form @submit.prevent="submitForm('form1')" ref="form1">
           <!-- Client Details -->
           <div class="form-section">
@@ -29,61 +30,60 @@
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Client 2</label>
             <input type="text" v-model="formData.client2" required>
           </div>
-
+          <br>
           <!-- Wedding Details -->
           <div class="form-section">
             <h2 style="color: #908e8b;font-family: Gruppo, cursive;">Wedding Details</h2>
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Chosen Package</label>
-            <input type="text" v-model="formData.chosenPackage" required>
+            <input type="text" v-model="formData.chosenPackage" readonly>
 
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Date of Wedding</label>
             <input type="date" v-model="formData.dateOfWedding" required>
 
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Amount of Hours Included</label>
-            <input type="number" v-model="formData.hoursIncluded" required>
+            <input type="number" v-model="formData.hoursIncluded" readonly>
 
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Prep Time</label>
-            <input type="time" v-model="formData.prepTime" required>
+            <input type="text" v-model="formData.prepTime" required>
 
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Ceremony Time</label>
-            <input type="time" v-model="formData.ceremonyTime" required>
+            <input type="text" v-model="formData.ceremonyTime" required>
 
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Ending Time</label>
-            <input type="time" v-model="formData.endingTime" required>
+            <input type="text" v-model="formData.endingTime" required>
 
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Other Times/Arrangements and Services Agreed On</label>
             <textarea style="  width: 50vw;" v-model="formData.otherArrangements"></textarea>
           </div>
-
+          <br>
           <!-- Client Address Details -->
           <div class="form-section">
             <h2 style="color: #908e8b;font-family: Gruppo, cursive;">Client Address Details</h2>
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Client's Address</label>
             <input type="text" v-model="formData.clientAddress1" required>
-            <input type="text" v-model="formData.clientAddress2">
-            <input type="text" v-model="formData.clientAddress3">
 
-            <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Email Address</label>
+            <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Client 1 - Email Address</label>
             <input type="email" v-model="formData.clientEmail1" required>
+            <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Client 2 - Email Address</label>
             <input type="email" v-model="formData.clientEmail2">
 
-            <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Phone Numbers</label>
-            <input type="tel" v-model="formData.clientPhone1" required>
+            <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Client 1 - Phone Number</label>
+            <input type="number" v-model="formData.clientPhone1" required>
             <br>
-            <input type="tel" v-model="formData.clientPhone2">
+            <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Client 2 - Phone Number</label>
+            <input type="number" v-model="formData.clientPhone2">
           </div>
-
+          <br>
           <!-- Prep Details -->
           <div class="form-section">
             <h2 style="color: #908e8b;font-family: Gruppo, cursive;">Prep Details</h2>
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Prep Start Time</label>
-            <input type="time" v-model="formData.prepStartTime" required>
+            <input type="text" v-model="formData.prepStartTime" required>
 
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Prep Address</label>
             <input type="text" v-model="formData.prepAddress1" required>
-            <input type="text" v-model="formData.prepAddress2">
           </div>
-
+          <br>
           <!-- Ceremony Details -->
           <div class="form-section">
             <h2 style="color: #908e8b;font-family: Gruppo, cursive;">Ceremony Details</h2>
@@ -92,12 +92,11 @@
 
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Address & Postcode</label>
             <input type="text" v-model="formData.ceremonyAddress1" required>
-            <input type="text" v-model="formData.ceremonyAddress2">
 
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Telephone Number</label>
-            <input type="tel" v-model="formData.ceremonyPhone" required>
+            <input type="number" v-model="formData.ceremonyPhone" required>
           </div>
-
+          <br>
           <!-- Reception Details -->
           <div class="form-section">
             <h2 style="color: #908e8b;font-family: Gruppo, cursive;">Reception Details</h2>
@@ -106,12 +105,10 @@
 
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Address & Postcode</label>
             <input type="text" v-model="formData.receptionAddress1" required>
-            <input type="text" v-model="formData.receptionAddress2">
-
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Telephone Number</label>
-            <input type="tel" v-model="formData.receptionPhone" required>
+            <input type="number" v-model="formData.receptionPhone" required>
           </div>
-
+          <br>
           <!-- Additional Contacts -->
           <div class="form-section">
             <h2 style="color: #908e8b;font-family: Gruppo, cursive;">Additional Contacts</h2>
@@ -123,17 +120,25 @@
               <input type="email" v-model="contact.email" required>
 
               <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Additional Contact {{ index + 1 }} Telephone</label>
-              <input type="tel" v-model="contact.phone" required>
+              <input type="number" v-model="contact.phone" required>
             </div>
             <button @click.prevent="addAdditionalContact">Add Additional Contact</button>
           </div>
+          <br>
+          <br>
           <div class="form-section">
             <h2 style="color: #908e8b;font-family: Gruppo, cursive;">Price Agreed</h2>
             <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Booking Fee</label>
             <input type="text" v-model="formData.bookingFee" readonly>
 
-            <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Package fee & Travel fee</label>
+            <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Package fee</label>
             <input type="text" v-model="formData.packageFee" readonly>
+
+            <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Travel fee</label>
+            <input type="text" v-model="formData.travelFee" readonly>
+
+            <label style="color: #908e8b;display: block; font-family: Gruppo, cursive; font-size: 22px;">Total Cost</label>
+            <input type="text" v-model="formData.totalFee" readonly>
           </div>
           <br>
           <br>
@@ -241,7 +246,8 @@
           <!-- Signature -->
           <div class="form-section">
             <h2 style="color: #908e8b; font-family: Gruppo, cursive;">Signature</h2>
-            <VueSignaturePad ref="signaturePad" width="100%" height="300px"></VueSignaturePad>
+            <h3 style="color: #908e8b; font-family: Gruppo, cursive;">Click and draw in the box below</h3>
+            <VueSignaturePad style="background-color: white" ref="signaturePad" width="100%" height="300px"></VueSignaturePad>
           </div>
 
 
@@ -473,7 +479,6 @@
           <div class="form-section">
             <h2 style="color: #908e8b; font-family: Gruppo, cursive;">Signature</h2>
 
-            <button @click="saveSignature">Save Signature</button>
           </div>
 
           <!-- Submit Button -->
@@ -528,6 +533,8 @@ export default {
         receptionPhone: '',
         bookingFee: '£120',
         packageFee: '£500',
+        travelFee: '£500',
+        totalFee: '',
         additionalContacts: [],
         agreement: false,
         signatureDataUrl: '', // Placeholder for signature data URL
@@ -539,6 +546,10 @@ export default {
       dropboxAccessToken: 'sl.u.AFF4ZmVxzIhD41Pmu8Db2fcUtL_SOVHio5SaCXCbSq6CAQf-bgIFY7C5HTPTU_czRtXVj8E7blWyoj8vPPdmuxqnSBHi6BRIN3HjanbtltguZE63TG_0I7R0_CTzwmII-YIDHBD2Hs9ff8S78H3w1s7UKL5_gTyKBM9LI64pGFPuh21yIeOB0Vi3_Is5QtELRbnuZUFS5DoV6TAyCvQzCH9jaHvcLn98LjqozW8g_YmHiHaCS8iEkd6NOCZxbwKKX8hVNSzqyfj07U5BWMc5lXgDI8IyXkWdM6wZqDDNFrS8h3dB6WX4v-7AWDphj6O_yKoCxBqzQGCB7P68-TX1EOpPLOddRr-jZgYyiNikbYBquaMjhLIBN1hrK_kCXFw3jSKGXtCtENCqZqYRfxs5qLqMvne_gcFzdzbp5juN-4oav_Z1dRSBBAwR7OwPz1KEXeacr4VdpwaCJGs1oNWmMexygEHxLHEV29TH5kl8brT6pXm1UH5eQPz9nyl61061ZUWA_49_KUlySeDAFl9XmImIEkzrRCKnNzvV4I7ZM_adySFfD7e-yxkpnGc1nMlh5st3D1hvj-ApqFfaGwyrOTzSMI_p4Jgv8IrujDi_jrVPR9PMC9BypV3CA64l2_H_1zoI-5IN6JpztarGXDY1snFrMZWN5m1mXoVb7nE482W2e14ng86I5uGylDPqH2Ulb16tNlgcMGmT71WH4COp5CBtJBXBT9HrNh2AEQvrSQdwxP0DwcTmCXZCR3Ig6N2wSS2LhQaB0YmTh8JGh3-L944To1pm1Cwnljy5LzMyexy7YVGmdpqqAUgLC_-TtnHz-t2jPTtvpqfXLsEf7E3ByJasVuX2xRbfcFsAHB6OVke6SqcuM0-2-0Qunz0Cqr44cusbqteuzW7yKnOBQJkUlTY6ei7EyXngF2tPnFvcZe5eXQjeVAtgdNLa2zebIkKt53f38coeU4NqZdHtr5iCNJ4Nl2PDSTERgegr0PUvhNHqzhdQu1AYv2uNoQdM7IQsBnHj29pEmiqwMpUh8YnSChb7eCEUhROiOWnvFExj2V1l9zTzTenJVPtsdKZwkjTFT3K4HbLqrF-25HPgm9qlLl2dZUhwIM66vGx2wwydmwsuxyTSVaAdGaOSr0dJKDPHgITPntdOApnT1cd-MyxRM6g55cOr6ngnKcUzFbiZmucdpnmqNi3Fyh-URSh1j8rwP4exXsZO6GY9GWXijeGjrV0SbIFzxvVpGSaqKNM92dE4noxwtUcqH-MjKc3oob8UwQnuQEkcInTiV0z9p-j-DKSI', // Replace with your Dropbox Access Token
       signaturePadData: null,
     };
+  },
+  created() {
+    // Automatically calculate total fee when component is created
+    this.calculateTotalFee();
   },
   methods: {
     verifyCode() {
@@ -598,6 +609,16 @@ export default {
       const byteArray = new Uint8Array(byteNumbers);
       return new Blob([byteArray], {type: 'image/png'});
     },
+    calculateTotalFee() {
+      // Convert fees to numbers and calculate total fee
+      const bookingFee = parseFloat(this.formData.bookingFee.replace('£', ''));
+      const packageFee = parseFloat(this.formData.packageFee.replace('£', ''));
+      const travelFee = parseFloat(this.formData.travelFee.replace('£', ''));
+      const totalFee = bookingFee + packageFee + travelFee;
+
+      // Format total fee as currency
+      this.formData.totalFee = `£${totalFee.toFixed(2)}`;
+    },
     async submitForm(formRef) {
 
       // Prepare template parameters based on form data
@@ -630,6 +651,10 @@ export default {
         receptionAddress2: this.formData.receptionAddress2,
         receptionPhone: this.formData.receptionPhone,
         additionalContacts: this.formData.additionalContacts,
+        bookingFee: this.formData.bookingFee,
+        packageFee: this.formData.packageFee,
+        travelFee: this.formData.travelFee,
+        totalFee: this.formData.totalFee,
         signatureLink: this.base64ToBlob, // Placeholder for signature link
       };
 
