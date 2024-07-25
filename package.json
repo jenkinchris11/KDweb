@@ -13,12 +13,17 @@
     "bootstrap": "^5.2.1",
     "bootstrap-vue-3": "^0.3.3",
     "core-js": "^3.8.3",
+    "crypto-browserify": "^3.12.0",
+    "dropbox": "^10.34.0",
     "jquery": "^3.6.1",
+    "stream-browserify": "^3.0.0",
     "swiper": "^8.4.5",
+    "util": "^0.12.5",
     "vue": "^3.2.13",
     "vue-gtag-next": "^1.14.0",
     "vue-picture-swipe": "^2.1.0",
-    "vue-router": "^4.0.3"
+    "vue-router": "^4.0.3",
+    "vue-signature-pad": "^3.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",

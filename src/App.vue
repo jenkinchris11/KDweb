@@ -41,6 +41,9 @@
           <router-link to="/Social-Links" class="nav-link" style="font-family: 'Gruppo', cursive;color: white;text-decoration: none; font-size: 30px;">Socials</router-link>
         </li>
         <li class="nav-mask" style="padding-left: 25px; font-family: 'Gruppo', cursive; background: none;">
+          <router-link to="/Contract-Page" class="nav-link" style="font-family: 'Gruppo', cursive;text-decoration: none;color: white; font-size: 30px;">Contract Page</router-link>
+        </li>
+        <li class="nav-mask" style="padding-left: 25px; font-family: 'Gruppo', cursive; background: none;">
           <router-link to="/Enquiries" class="nav-link" style="font-family: 'Gruppo', cursive;text-decoration: none;color: white; font-size: 30px;">Enquiries</router-link>
         </li>
         <li href="https://www.facebook.com/KirstyDoranphoto87/reviews?locale=en_GB" class="nav-mask" style="padding-top: 8px; padding-left: 25px; font-family: 'Gruppo', cursive; background: none;">
