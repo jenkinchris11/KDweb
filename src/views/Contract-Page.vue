@@ -506,7 +506,7 @@ export default {
       formData: {
         client1: '',
         client2: '',
-        chosenPackage: '',
+        chosenPackage: 'Blue diaond special offer',
         dateOfWedding: '',
         hoursIncluded: '',
         prepTime: '',
