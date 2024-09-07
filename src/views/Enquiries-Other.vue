@@ -48,7 +48,7 @@ export default {
   },
   methods: {
     sendEmail() {
-      emailjs.sendForm('service_hk3ve7b', 'template_dktu4oj', this.$refs.form, 'TlEZdBy4ei-1DSyvm')
+      emailjs.sendForm('service_hk3ve7b', 'template_dktu4oj', this.$refs.form, 'ed5t0jwfcZmEcYl_4')
           .then((result) => {
             this.$refs.form.reset()
             console.log('SUCCESS!', result.text);
