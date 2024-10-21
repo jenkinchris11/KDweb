@@ -240,7 +240,7 @@
           <div class="form-section">
             <h2 style="color: #908e8b;font-family: Gruppo, cursive;">Contract Agreement</h2>
             <input type="checkbox" id="terms" v-model="formData.agreement" required>
-            <label for="terms" style="color: #908e8b;font-family: Gruppo, cursive;">I agree to the terms and conditions. </label>
+            <label for="terms" style="color: #908e8b;font-family: Gruppo, cursive;">I agree to the terms and conditions.</label>
           </div>
 
           <!-- Signature -->
@@ -683,12 +683,8 @@ export default {
             console.error('Error uploading signature to Dropbox:', error);
             alert('Error uploading signature to Dropbox. Please try again.');
           });
-      sendCanvasAsAttachment(canvas) {
-        var base64 = canvas.toDataURL();
-        emailjs.send('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', {
-          content: base64
-        });
-      }
+
+
       // Send email using EmailJS
       const response = await emailjs.send(this.serviceID, templateID, templateParams, this.apiKey);
       console.log('Email sent successfully!', response);
