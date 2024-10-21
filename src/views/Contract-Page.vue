@@ -543,7 +543,7 @@ export default {
       correctCode2: 'CODE456',
       serviceID: 'service_hk3ve7b', // Replace with your EmailJS service ID
       apiKey: 'ed5t0jwfcZmEcYl_4', // Replace with your EmailJS API key
-      dropboxAccessToken: 'sl.B_Pp2-4k1jdRWHAdN3oJsl6GxX9zDzUC8lA-JjVym6liv5u1LM90eaPW_Y4Q8ZczMnwTiK_OYwA_PEngFm0gku923kb0LaWPiI5JYLCBhoea9lfxwjDMwWzKhFTCOkdKxnVwpJCDKfRV1uw', // Replace with your Dropbox Access Token
+      dropboxAccessToken: 'sl.B_MzfdYHWOTGaWO_ZPCn1kCrKt7SaWbempoaw0-YYtFsw5-5QX1LAm9rtnucrqO4U9rxIBpiD3UDaTnz9OX8kSV3BAhxloL0f5tLej2RAMGx_7Uu511qyx-6-P3m8qeHdHWOUhTqxcD3U_I', // Replace with your Dropbox Access Token
       signaturePadData: null,
     };
   },
