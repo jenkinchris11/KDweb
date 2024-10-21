@@ -561,8 +561,11 @@ export default {
         alert('Incorrect Code');
       }
     },
+
     save() {
       const {isEmpty, data} = this.$refs.signaturePad.saveSignature();
+      console.log(data)
+
 
       if (isEmpty) {
         alert('Please provide a signature.');
@@ -581,7 +584,7 @@ export default {
           });
     },
     uploadToDropbox(base64String) {
-      const dropbox = new Dropbox({accessToken: process.env.API_KEY});
+      const dropbox = new Dropbox({accessToken: process.env.VUE_SECRET_API_KEY});
       const fileName = `signature_${this.formData.client1.replace(/\s+/g, '-')}_${Date.now()}.png`;
       const fileBlob = this.base64ToBlob(base64String);
 
@@ -621,6 +624,15 @@ export default {
     },
     async submitForm(formRef) {
 
+      // Determine which template ID to use based on formRef
+      let templateID = '';
+      if (formRef === 'form1') {
+        templateID = 'template_302r7ka'; // Replace with your template ID for form 1
+      } else if (formRef === 'form2') {
+        templateID = 'TemplateID2'; // Replace with your template ID for form 2
+      }
+      const {data} = this.$refs.signaturePad.saveSignature();
+
       // Prepare template parameters based on form data
       const templateParams = {
         client1: this.formData.client1,
@@ -655,22 +667,10 @@ export default {
         packageFee: this.formData.packageFee,
         travelFee: this.formData.travelFee,
         totalFee: this.formData.totalFee,
-        signatureLink: this.base64ToBlob, // Placeholder for signature link
+        signatureLink: this.$refs.signaturePad.fromDataURL(data), // Placeholder for signature link
       };
 
-      // Determine which template ID to use based on formRef
-      let templateID = '';
-      if (formRef === 'form1') {
-        templateID = 'template_302r7ka'; // Replace with your template ID for form 1
-      } else if (formRef === 'form2') {
-        templateID = 'TemplateID2'; // Replace with your template ID for form 2
-      }
-      const {isEmpty, data} = this.$refs.signaturePad.saveSignature();
 
-      if (isEmpty) {
-        alert('Please provide a signature.');
-        return;
-      }
 
 
       // Example: Upload signature to Dropbox
@@ -683,6 +683,7 @@ export default {
             console.error('Error uploading signature to Dropbox:', error);
             alert('Error uploading signature to Dropbox. Please try again.');
           });
+
 
 
       // Send email using EmailJS
