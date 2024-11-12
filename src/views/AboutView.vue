@@ -118,6 +118,9 @@ img {
   .Left{
     display: none;
   }
-
+  footer{
+    position: relative;
+    top: 1700px;
+  }
 }
 </style>
