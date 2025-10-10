@@ -6,6 +6,12 @@
   <div style="display: flex; flex-direction: column; align-items: center;">
     <h1 style="font-family: 'Gruppo', cursive; color: #908e8b">Photo-Booth</h1>
     <br>
+	  <div>
+      <hr style="border: 1px solid grey; width: 800px">
+      <p style="font-family: 'Gruppo', cursive; font-size: 30px; color: #908e8b">Mr & Mrs Hind</p>
+        <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiL1ZBTHJyYlhzL053L29GUlRQRWswZXVURlFyN1Q5dXliOHFlaWtuNVc3NGxLNmRycVBDMzNHbkFWQUFsZ2VjM0wwZ3lUUWZhMWNjTkkwaUFrbG1TZ0VnZzlGWXJQL3FtOC9RbzJyT2RUVkVLSCtmaVI0cnZoakdpNjJreVo1NFg1bTZmaXlMTU9RPT0iLCJzIjoiK1VtWUcwL21yRUdFQUxRSUZ4OEJQdz09IiwiaSI6Ik5jc053OG9HemZxQ3VEMS8ifQ==" style="font-family: 'Gruppo', cursive; font-size: 24px; text-decoration: none; color: #908e8b">Download</a>
+        <hr style="border: 1px solid grey; width: 800px">
+    </div>
 	<div>
       <hr style="border: 1px solid grey; width: 800px">
       <p style="font-family: 'Gruppo', cursive; font-size: 30px; color: #908e8b">Mr & Mrs Doherty</p>
